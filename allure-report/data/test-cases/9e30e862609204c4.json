@@ -1,0 +1,92 @@
+{
+  "uid" : "9e30e862609204c4",
+  "name" : "This test case tests if user manage profile page successfully",
+  "fullName" : "com.tests.NavProfileTests.testMethod",
+  "historyId" : "7e9f759effbce3984d8788950437488b",
+  "time" : {
+    "start" : 1603267204154,
+    "stop" : 1603267219068,
+    "duration" : 14914
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "openChrome",
+    "time" : {
+      "start" : 1603267196744,
+      "stop" : 1603267199146,
+      "duration" : 2402
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "cleanUp",
+    "time" : {
+      "start" : 1603267219071,
+      "stop" : 1603267219175,
+      "duration" : 104
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.tests.NavProfileTests"
+  }, {
+    "name" : "testClass",
+    "value" : "com.tests.NavProfileTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testMethod"
+  }, {
+    "name" : "parentSuite",
+    "value" : "System Suite"
+  }, {
+    "name" : "suite",
+    "value" : "System Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.tests.NavProfileTests"
+  }, {
+    "name" : "host",
+    "value" : "Blerons-iMac.local"
+  }, {
+    "name" : "thread",
+    "value" : "1432@Blerons-iMac.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e30e862609204c4.json",
+  "parameterValues" : [ ]
+}

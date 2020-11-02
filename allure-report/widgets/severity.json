@@ -1,0 +1,111 @@
+[ {
+  "uid" : "f375f0e4940b4cd4",
+  "name" : "This test is for Management Page",
+  "time" : {
+    "start" : 1603269620484,
+    "stop" : 1603269670474,
+    "duration" : 49990
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b44fe22f07756ab1",
+  "name" : "This test case tests if user can speak successfully in chat",
+  "time" : {
+    "start" : 1603269678749,
+    "stop" : 1603269736234,
+    "duration" : 57485
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55e06d4245cb2930",
+  "name" : "This test case tests if user can navigate in file successfully",
+  "time" : {
+    "start" : 1603269744792,
+    "stop" : 1603269752201,
+    "duration" : 7409
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ee1e7d404c9e006",
+  "name" : "This test case tests if user can navigate in Department successfully",
+  "time" : {
+    "start" : 1603269608656,
+    "stop" : 1603269612943,
+    "duration" : 4287
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f00d871759977c2c",
+  "name" : "openChrome",
+  "time" : {
+    "start" : 1603198331663,
+    "stop" : 1603198331665,
+    "duration" : 2
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a681bf992fda2ee2",
+  "name" : "This test case tests if user can Login successfully",
+  "time" : {
+    "start" : 1603269592963,
+    "stop" : 1603269594277,
+    "duration" : 1314
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f2360f4e2accbf01",
+  "name" : "This Test case tests if user can use settings successfully",
+  "time" : {
+    "start" : 1603269809442,
+    "stop" : 1603269823714,
+    "duration" : 14272
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "38ca0966ed7b2a8c",
+  "name" : "This test case tests if user manage profile page successfully",
+  "time" : {
+    "start" : 1603269786940,
+    "stop" : 1603269801898,
+    "duration" : 14958
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb81aa3ad36a2c0c",
+  "name" : "This test is for Manager/Supervisor Dashboard",
+  "time" : {
+    "start" : 1603269597179,
+    "stop" : 1603269601166,
+    "duration" : 3987
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b6f59fbdbe52179",
+  "name" : "openChrome",
+  "time" : {
+    "start" : 1603184834578,
+    "stop" : 1603184834579,
+    "duration" : 1
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4b1edd3ddbb10a43",
+  "name" : "This test case tests if user can manage user page successfully",
+  "time" : {
+    "start" : 1603269759770,
+    "stop" : 1603269779299,
+    "duration" : 19529
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

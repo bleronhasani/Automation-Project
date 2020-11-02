@@ -1,0 +1,92 @@
+{
+  "uid" : "8e8e333619c5ce75",
+  "name" : "This test case tests if user can navigate in file successfully",
+  "fullName" : "com.tests.NavFileTests.testMethod",
+  "historyId" : "4fb7f7bc04801fb65a0f2752a159f4c0",
+  "time" : {
+    "start" : 1601990360307,
+    "stop" : 1601990367731,
+    "duration" : 7424
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "openChrome",
+    "time" : {
+      "start" : 1601990350071,
+      "stop" : 1601990355299,
+      "duration" : 5228
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "cleanUp",
+    "time" : {
+      "start" : 1601990367732,
+      "stop" : 1601990367808,
+      "duration" : 76
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.tests.NavFileTests"
+  }, {
+    "name" : "testClass",
+    "value" : "com.tests.NavFileTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testMethod"
+  }, {
+    "name" : "parentSuite",
+    "value" : "System Suite"
+  }, {
+    "name" : "suite",
+    "value" : "System Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.tests.NavFileTests"
+  }, {
+    "name" : "host",
+    "value" : "Blerons-iMac.local"
+  }, {
+    "name" : "thread",
+    "value" : "7497@Blerons-iMac.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8e8e333619c5ce75.json",
+  "parameterValues" : [ ]
+}

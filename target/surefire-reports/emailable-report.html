@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="7">System Suite</th></tr>
+<tr><td><a href="#t0">System Tests</a></td><td class="num">7</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">247,915</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">System Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">System Tests &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.tests.NavFileTests</td><td><a href="#m0">testMethod</a></td><td rowspan="1">1601992094000</td><td rowspan="1">13175</td></tr><tr><th colspan="4">System Tests &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.tests.LoginTests</td><td><a href="#m1">testMethod</a></td><td rowspan="1">1601991937539</td><td rowspan="1">6853</td></tr><tr class="passedodd"><td rowspan="1">com.tests.NavDepartmentsTests</td><td><a href="#m2">testMethod</a></td><td rowspan="1">1601991949379</td><td rowspan="1">9304</td></tr><tr class="passedeven"><td rowspan="1">com.tests.NavProfileTests</td><td><a href="#m3">testMethod</a></td><td rowspan="1">1601992137045</td><td rowspan="1">19939</td></tr><tr class="passedodd"><td rowspan="1">com.tests.NavSettingsTests</td><td><a href="#m4">testMethod</a></td><td rowspan="1">1601992160784</td><td rowspan="1">19552</td></tr><tr class="passedeven"><td rowspan="1">com.tests.NavUsersTests</td><td><a href="#m5">testMethod</a></td><td rowspan="1">1601992109996</td><td rowspan="1">24434</td></tr><tr class="passedodd"><td rowspan="1">com.tests.SideChatPageTests</td><td><a href="#m6">testMethod</a></td><td rowspan="1">1601992035618</td><td rowspan="1">55955</td></tr><tr class="passedeven"><td rowspan="1">com.tests.SideManagementTests</td><td><a href="#m7">testMethod</a></td><td rowspan="1">1601991961643</td><td rowspan="1">71272</td></tr></tbody>
+</table>
+<h2>System Tests</h2><h3 id="m0">com.tests.NavFileTests#testMethod</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element &lt;span&gt;...&lt;/span&gt; is not clickable at point (168, 424). Other element would receive the click: &lt;div aria-hidden=&quot;true&quot; style=&quot;z-index: -1; position: fixed; right: 0px; bottom: 0px; top: 0px; left: 0px; background-color: rgba(0, 0, 0, 0.5); -webkit-tap-highlight-color: transparent;&quot;&gt;&lt;/div&gt;
+  (Session info: chrome=85.0.4183.121)
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;Blerons-iMac.local&apos;, ip: &apos;192.168.0.103&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.15.6&apos;, java.version: &apos;14.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:61093}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}
+Session ID: 289830ddef1820ea80d1d587423ce7a8
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)
+	at com.implementation.NavFileImpl.filePage(NavFileImpl.java:43)
+	at com.tests.NavFileTests.testMethod(NavFileTests.java:24)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1510)
+... Removed 36 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">com.tests.LoginTests#testMethod</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">com.tests.NavDepartmentsTests#testMethod</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">com.tests.NavProfileTests#testMethod</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">com.tests.NavSettingsTests#testMethod</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">com.tests.NavUsersTests#testMethod</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">com.tests.SideChatPageTests#testMethod</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">com.tests.SideManagementTests#testMethod</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>

@@ -1,0 +1,92 @@
+{
+  "uid" : "c1ba6ac39a7685b7",
+  "name" : "This test is for Management Page",
+  "fullName" : "com.tests.SideManagementTests.testMethod",
+  "historyId" : "feed6f87287d811ad985286dd70efa2e",
+  "time" : {
+    "start" : 1601997367590,
+    "stop" : 1601997433970,
+    "duration" : 66380
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "openChrome",
+    "time" : {
+      "start" : 1601997360005,
+      "stop" : 1601997362583,
+      "duration" : 2578
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "cleanUp",
+    "time" : {
+      "start" : 1601997433973,
+      "stop" : 1601997434072,
+      "duration" : 99
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.tests.SideManagementTests"
+  }, {
+    "name" : "testClass",
+    "value" : "com.tests.SideManagementTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testMethod"
+  }, {
+    "name" : "parentSuite",
+    "value" : "System Suite"
+  }, {
+    "name" : "suite",
+    "value" : "System Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.tests.SideManagementTests"
+  }, {
+    "name" : "host",
+    "value" : "Blerons-iMac.local"
+  }, {
+    "name" : "thread",
+    "value" : "10821@Blerons-iMac.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1ba6ac39a7685b7.json",
+  "parameterValues" : [ ]
+}

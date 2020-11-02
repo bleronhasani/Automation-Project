@@ -1,0 +1,92 @@
+{
+  "uid" : "789c5ea1a164cea0",
+  "name" : "This test case tests if user can Login successfully",
+  "fullName" : "com.tests.LoginTests.testMethod",
+  "historyId" : "7fa2cf60ccb59e9a8d50813b0ec7a821",
+  "time" : {
+    "start" : 1603200562287,
+    "stop" : 1603200563596,
+    "duration" : 1309
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "openChrome",
+    "time" : {
+      "start" : 1603200550424,
+      "stop" : 1603200557128,
+      "duration" : 6704
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "cleanUp",
+    "time" : {
+      "start" : 1603200563604,
+      "stop" : 1603200563696,
+      "duration" : 92
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.tests.LoginTests"
+  }, {
+    "name" : "testClass",
+    "value" : "com.tests.LoginTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testMethod"
+  }, {
+    "name" : "parentSuite",
+    "value" : "System Suite"
+  }, {
+    "name" : "suite",
+    "value" : "System Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.tests.LoginTests"
+  }, {
+    "name" : "host",
+    "value" : "Blerons-iMac.local"
+  }, {
+    "name" : "thread",
+    "value" : "7395@Blerons-iMac.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "789c5ea1a164cea0.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,192 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "System Suite",
+    "children" : [ {
+      "name" : "System Tests",
+      "children" : [ {
+        "name" : "com.tests.SideChatPageTests",
+        "children" : [ {
+          "name" : "openChrome",
+          "uid" : "b6f59fbdbe52179",
+          "parentUid" : "931e9115a5cf780220f7941121539adf",
+          "status" : "broken",
+          "time" : {
+            "start" : 1603184834578,
+            "stop" : 1603184834579,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "This test case tests if user can speak successfully in chat",
+          "uid" : "b44fe22f07756ab1",
+          "parentUid" : "931e9115a5cf780220f7941121539adf",
+          "status" : "passed",
+          "time" : {
+            "start" : 1603269678749,
+            "stop" : 1603269736234,
+            "duration" : 57485
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "931e9115a5cf780220f7941121539adf"
+      }, {
+        "name" : "com.tests.SideManagementTests",
+        "children" : [ {
+          "name" : "openChrome",
+          "uid" : "f00d871759977c2c",
+          "parentUid" : "c1abf007ec36e4c2db27329342c94653",
+          "status" : "broken",
+          "time" : {
+            "start" : 1603198331663,
+            "stop" : 1603198331665,
+            "duration" : 2
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "This test is for Management Page",
+          "uid" : "f375f0e4940b4cd4",
+          "parentUid" : "c1abf007ec36e4c2db27329342c94653",
+          "status" : "passed",
+          "time" : {
+            "start" : 1603269620484,
+            "stop" : 1603269670474,
+            "duration" : 49990
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c1abf007ec36e4c2db27329342c94653"
+      }, {
+        "name" : "com.tests.LoginTests",
+        "children" : [ {
+          "name" : "This test case tests if user can Login successfully",
+          "uid" : "a681bf992fda2ee2",
+          "parentUid" : "aa0579c7820b4182c8cc9d38cc75a10d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1603269592963,
+            "stop" : 1603269594277,
+            "duration" : 1314
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "aa0579c7820b4182c8cc9d38cc75a10d"
+      }, {
+        "name" : "com.tests.SupervisorPageTests",
+        "children" : [ {
+          "name" : "This test is for Manager/Supervisor Dashboard",
+          "uid" : "bb81aa3ad36a2c0c",
+          "parentUid" : "bd50652e7e08b85a486a270e0431f48b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1603269597179,
+            "stop" : 1603269601166,
+            "duration" : 3987
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bd50652e7e08b85a486a270e0431f48b"
+      }, {
+        "name" : "com.tests.NavDepartmentsTests",
+        "children" : [ {
+          "name" : "This test case tests if user can navigate in Department successfully",
+          "uid" : "4ee1e7d404c9e006",
+          "parentUid" : "bb6ea9d3f9129e5a90043c5f49b31077",
+          "status" : "passed",
+          "time" : {
+            "start" : 1603269608656,
+            "stop" : 1603269612943,
+            "duration" : 4287
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bb6ea9d3f9129e5a90043c5f49b31077"
+      }, {
+        "name" : "com.tests.NavFileTests",
+        "children" : [ {
+          "name" : "This test case tests if user can navigate in file successfully",
+          "uid" : "55e06d4245cb2930",
+          "parentUid" : "5f308e6e58028adfd2453528eaf390d5",
+          "status" : "passed",
+          "time" : {
+            "start" : 1603269744792,
+            "stop" : 1603269752201,
+            "duration" : 7409
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5f308e6e58028adfd2453528eaf390d5"
+      }, {
+        "name" : "com.tests.NavUsersTests",
+        "children" : [ {
+          "name" : "This test case tests if user can manage user page successfully",
+          "uid" : "4b1edd3ddbb10a43",
+          "parentUid" : "3c438aec3dc6c92c1616193b52d6a989",
+          "status" : "passed",
+          "time" : {
+            "start" : 1603269759770,
+            "stop" : 1603269779299,
+            "duration" : 19529
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "3c438aec3dc6c92c1616193b52d6a989"
+      }, {
+        "name" : "com.tests.NavProfileTests",
+        "children" : [ {
+          "name" : "This test case tests if user manage profile page successfully",
+          "uid" : "38ca0966ed7b2a8c",
+          "parentUid" : "4fd17399146bb2f215ba28350fd1c693",
+          "status" : "passed",
+          "time" : {
+            "start" : 1603269786940,
+            "stop" : 1603269801898,
+            "duration" : 14958
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "4fd17399146bb2f215ba28350fd1c693"
+      }, {
+        "name" : "com.tests.NavSettingsTests",
+        "children" : [ {
+          "name" : "This Test case tests if user can use settings successfully",
+          "uid" : "f2360f4e2accbf01",
+          "parentUid" : "0e1b891029dc0f50af64b04c7119cd61",
+          "status" : "passed",
+          "time" : {
+            "start" : 1603269809442,
+            "stop" : 1603269823714,
+            "duration" : 14272
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0e1b891029dc0f50af64b04c7119cd61"
+      } ],
+      "uid" : "845c50c00d57a8065b97eb04c2c52d18"
+    } ],
+    "uid" : "aff8336f186140aefec6fd24404124e5"
+  } ]
+}

@@ -1,0 +1,4353 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Blerons-iMac.local",
+    "children" : [ {
+      "name" : "3273@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "b07b7e5c1b256bb1",
+        "parentUid" : "d270873c55be5a1250af7dc8504ac46c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603185027380,
+          "stop" : 1603185028673,
+          "duration" : 1293
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "19fb9ba3f88d5e17",
+        "parentUid" : "d270873c55be5a1250af7dc8504ac46c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603185031892,
+          "stop" : 1603185035692,
+          "duration" : 3800
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "4b0a5c3315485074",
+        "parentUid" : "d270873c55be5a1250af7dc8504ac46c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603185043468,
+          "stop" : 1603185047768,
+          "duration" : 4300
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "de38e3b7b36155d5",
+        "parentUid" : "d270873c55be5a1250af7dc8504ac46c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603185136751,
+          "stop" : 1603185144755,
+          "duration" : 8004
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "b279e7349b20ccf6",
+        "parentUid" : "d270873c55be5a1250af7dc8504ac46c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603185203472,
+          "stop" : 1603185218395,
+          "duration" : 14923
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "ed42bb464535757",
+        "parentUid" : "d270873c55be5a1250af7dc8504ac46c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603185180773,
+          "stop" : 1603185195563,
+          "duration" : 14790
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "72b674314ed31102",
+        "parentUid" : "d270873c55be5a1250af7dc8504ac46c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603185153308,
+          "stop" : 1603185173058,
+          "duration" : 19750
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "8fe533a96ffcec38",
+        "parentUid" : "d270873c55be5a1250af7dc8504ac46c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603185074514,
+          "stop" : 1603185128954,
+          "duration" : 54440
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "3a981482b7dba533",
+        "parentUid" : "d270873c55be5a1250af7dc8504ac46c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603185055879,
+          "stop" : 1603185071240,
+          "duration" : 15361
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d270873c55be5a1250af7dc8504ac46c"
+    }, {
+      "name" : "2833@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "cae38be25e62e086",
+        "parentUid" : "36c7f1b5427e81f7dce132f8ffa05ca3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603269369748,
+          "stop" : 1603269427604,
+          "duration" : 57856
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "9fe585ad1448633f",
+        "parentUid" : "36c7f1b5427e81f7dce132f8ffa05ca3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269358056,
+          "stop" : 1603269362347,
+          "duration" : 4291
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "b14abede296e68f5",
+        "parentUid" : "36c7f1b5427e81f7dce132f8ffa05ca3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269335506,
+          "stop" : 1603269337844,
+          "duration" : 2338
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "8e57d38ba800a488",
+        "parentUid" : "36c7f1b5427e81f7dce132f8ffa05ca3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603269430426,
+          "stop" : 1603269448293,
+          "duration" : 17867
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "47e8af35d9ddf8a",
+        "parentUid" : "36c7f1b5427e81f7dce132f8ffa05ca3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269346470,
+          "stop" : 1603269350505,
+          "duration" : 4035
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "36c7f1b5427e81f7dce132f8ffa05ca3"
+    }, {
+      "name" : "7395@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "da53e9d679b37d58",
+        "parentUid" : "13687f77d5ac1bf183d09db7660f4313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603200590601,
+          "stop" : 1603200648314,
+          "duration" : 57713
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "c34ad38cefb4fbcf",
+        "parentUid" : "13687f77d5ac1bf183d09db7660f4313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603200656624,
+          "stop" : 1603200710883,
+          "duration" : 54259
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "3cf7887392758de0",
+        "parentUid" : "13687f77d5ac1bf183d09db7660f4313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603200566214,
+          "stop" : 1603200570700,
+          "duration" : 4486
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "1d83dbf52018f39a",
+        "parentUid" : "13687f77d5ac1bf183d09db7660f4313",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603200718503,
+          "stop" : 1603200726571,
+          "duration" : 8068
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "88d2dc500ad49c1d",
+        "parentUid" : "13687f77d5ac1bf183d09db7660f4313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603200578703,
+          "stop" : 1603200582985,
+          "duration" : 4282
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "789c5ea1a164cea0",
+        "parentUid" : "13687f77d5ac1bf183d09db7660f4313",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603200562287,
+          "stop" : 1603200563596,
+          "duration" : 1309
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "13687f77d5ac1bf183d09db7660f4313"
+    }, {
+      "name" : "2234@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "ad9430f046abb49",
+        "parentUid" : "2b98730f5e5c8c9fdd46b70c2dd38c2d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183861562,
+          "stop" : 1603183865862,
+          "duration" : 4300
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "4ac9ae92c2c9e713",
+        "parentUid" : "2b98730f5e5c8c9fdd46b70c2dd38c2d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183845087,
+          "stop" : 1603183846395,
+          "duration" : 1308
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "e4858813fd36928c",
+        "parentUid" : "2b98730f5e5c8c9fdd46b70c2dd38c2d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183849804,
+          "stop" : 1603183853807,
+          "duration" : 4003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "edcf8b6f3b626356",
+        "parentUid" : "2b98730f5e5c8c9fdd46b70c2dd38c2d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603183876865,
+          "stop" : 1603183915506,
+          "duration" : 38641
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2b98730f5e5c8c9fdd46b70c2dd38c2d"
+    }, {
+      "name" : "6742@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "cbb4b9966541f227",
+        "parentUid" : "9492968293cf97a7e7b81b8818dbc221",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603199247666,
+          "stop" : 1603199313697,
+          "duration" : 66031
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9492968293cf97a7e7b81b8818dbc221"
+    }, {
+      "name" : "5191@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "158cbe4dc8d72064",
+        "parentUid" : "e2cb8a3674f29b167c8cdc51e1d4ba84",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603194665043,
+          "stop" : 1603194692603,
+          "duration" : 27560
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e2cb8a3674f29b167c8cdc51e1d4ba84"
+    }, {
+      "name" : "3116@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "a681bf992fda2ee2",
+        "parentUid" : "e35825d5258d298bf0666066f733ff8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269592963,
+          "stop" : 1603269594277,
+          "duration" : 1314
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "bb81aa3ad36a2c0c",
+        "parentUid" : "e35825d5258d298bf0666066f733ff8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269597179,
+          "stop" : 1603269601166,
+          "duration" : 3987
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "38ca0966ed7b2a8c",
+        "parentUid" : "e35825d5258d298bf0666066f733ff8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269786940,
+          "stop" : 1603269801898,
+          "duration" : 14958
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "f375f0e4940b4cd4",
+        "parentUid" : "e35825d5258d298bf0666066f733ff8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269620484,
+          "stop" : 1603269670474,
+          "duration" : 49990
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "4b1edd3ddbb10a43",
+        "parentUid" : "e35825d5258d298bf0666066f733ff8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269759770,
+          "stop" : 1603269779299,
+          "duration" : 19529
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "f2360f4e2accbf01",
+        "parentUid" : "e35825d5258d298bf0666066f733ff8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269809442,
+          "stop" : 1603269823714,
+          "duration" : 14272
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "4ee1e7d404c9e006",
+        "parentUid" : "e35825d5258d298bf0666066f733ff8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269608656,
+          "stop" : 1603269612943,
+          "duration" : 4287
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "55e06d4245cb2930",
+        "parentUid" : "e35825d5258d298bf0666066f733ff8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269744792,
+          "stop" : 1603269752201,
+          "duration" : 7409
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "b44fe22f07756ab1",
+        "parentUid" : "e35825d5258d298bf0666066f733ff8d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269678749,
+          "stop" : 1603269736234,
+          "duration" : 57485
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e35825d5258d298bf0666066f733ff8d"
+    }, {
+      "name" : "6210@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "b44b10a4ea36709e",
+        "parentUid" : "9886867231fe83aaf9ab5ebd25cb7c62",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603198012317,
+          "stop" : 1603198055361,
+          "duration" : 43044
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9886867231fe83aaf9ab5ebd25cb7c62"
+    }, {
+      "name" : "4583@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "dd5088e5a75a7fdd",
+        "parentUid" : "2452ad5f3d73e2e456c907f0d55cca39",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603193522733,
+          "stop" : 1603193526786,
+          "duration" : 4053
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "50485fcf4871bf38",
+        "parentUid" : "2452ad5f3d73e2e456c907f0d55cca39",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603193546537,
+          "stop" : 1603193585454,
+          "duration" : 38917
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "7d33f50903f44890",
+        "parentUid" : "2452ad5f3d73e2e456c907f0d55cca39",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603193534497,
+          "stop" : 1603193538749,
+          "duration" : 4252
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "d396a6d3c6c1b28b",
+        "parentUid" : "2452ad5f3d73e2e456c907f0d55cca39",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603193694775,
+          "stop" : 1603193709778,
+          "duration" : 15003
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "1554a7f74146f0fe",
+        "parentUid" : "2452ad5f3d73e2e456c907f0d55cca39",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603193650327,
+          "stop" : 1603193660108,
+          "duration" : 9781
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "c2e4cf0ff3e72315",
+        "parentUid" : "2452ad5f3d73e2e456c907f0d55cca39",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603193518621,
+          "stop" : 1603193519928,
+          "duration" : 1307
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "ffd1a38881746466",
+        "parentUid" : "2452ad5f3d73e2e456c907f0d55cca39",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603193588936,
+          "stop" : 1603193642623,
+          "duration" : 53687
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "7b9c3233a7cb3d7e",
+        "parentUid" : "2452ad5f3d73e2e456c907f0d55cca39",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603193717211,
+          "stop" : 1603193731153,
+          "duration" : 13942
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "12370ee0383099f",
+        "parentUid" : "2452ad5f3d73e2e456c907f0d55cca39",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603193667773,
+          "stop" : 1603193687145,
+          "duration" : 19372
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2452ad5f3d73e2e456c907f0d55cca39"
+    }, {
+      "name" : "7497@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "d26cf2ce6dea513b",
+        "parentUid" : "b482adcd9c65fd7aa34c87359beb3e42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601990204053,
+          "stop" : 1601990205613,
+          "duration" : 1560
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "c970bbbb17fe7068",
+        "parentUid" : "b482adcd9c65fd7aa34c87359beb3e42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601990214194,
+          "stop" : 1601990218535,
+          "duration" : 4341
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "e5f223a4195170c9",
+        "parentUid" : "b482adcd9c65fd7aa34c87359beb3e42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601990424922,
+          "stop" : 1601990439975,
+          "duration" : 15053
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "b85d02fed43578f9",
+        "parentUid" : "b482adcd9c65fd7aa34c87359beb3e42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601990402309,
+          "stop" : 1601990417488,
+          "duration" : 15179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "8e8e333619c5ce75",
+        "parentUid" : "b482adcd9c65fd7aa34c87359beb3e42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601990360307,
+          "stop" : 1601990367731,
+          "duration" : 7424
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "145ed766147d6eea",
+        "parentUid" : "b482adcd9c65fd7aa34c87359beb3e42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601990375371,
+          "stop" : 1601990394624,
+          "duration" : 19253
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "f0a86b9cc02a592",
+        "parentUid" : "b482adcd9c65fd7aa34c87359beb3e42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601990226126,
+          "stop" : 1601990291357,
+          "duration" : 65231
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "e17b12667e089996",
+        "parentUid" : "b482adcd9c65fd7aa34c87359beb3e42",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601990299404,
+          "stop" : 1601990349990,
+          "duration" : 50586
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b482adcd9c65fd7aa34c87359beb3e42"
+    }, {
+      "name" : "3102@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "a62847627ee69b70",
+        "parentUid" : "69993ea76e2b51ec94c7dcf59c78a29a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603184915483,
+          "stop" : 1603184952606,
+          "duration" : 37123
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "ed63bfa200c8bd70",
+        "parentUid" : "69993ea76e2b51ec94c7dcf59c78a29a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184877948,
+          "stop" : 1603184879274,
+          "duration" : 1326
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "486d330af7114617",
+        "parentUid" : "69993ea76e2b51ec94c7dcf59c78a29a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184889937,
+          "stop" : 1603184893963,
+          "duration" : 4026
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "c9663c22868c42d7",
+        "parentUid" : "69993ea76e2b51ec94c7dcf59c78a29a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603184956027,
+          "stop" : 1603185000843,
+          "duration" : 44816
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "1bbfd51adccca539",
+        "parentUid" : "69993ea76e2b51ec94c7dcf59c78a29a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184901864,
+          "stop" : 1603184906138,
+          "duration" : 4274
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "69993ea76e2b51ec94c7dcf59c78a29a"
+    }, {
+      "name" : "9926@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "cf52e830b4bedca0",
+        "parentUid" : "041c44608dfb9c7e4c0c9bf4a07e235b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601994911613,
+          "stop" : 1601994919702,
+          "duration" : 8089
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "3b1b450756b5374e",
+        "parentUid" : "041c44608dfb9c7e4c0c9bf4a07e235b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994927330,
+          "stop" : 1601994947341,
+          "duration" : 20011
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "8e04474c9ebcc548",
+        "parentUid" : "041c44608dfb9c7e4c0c9bf4a07e235b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994770738,
+          "stop" : 1601994776649,
+          "duration" : 5911
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "e030887024746922",
+        "parentUid" : "041c44608dfb9c7e4c0c9bf4a07e235b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994954932,
+          "stop" : 1601994970050,
+          "duration" : 15118
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "41e520cf32021855",
+        "parentUid" : "041c44608dfb9c7e4c0c9bf4a07e235b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994978025,
+          "stop" : 1601994992402,
+          "duration" : 14377
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "9d3bde0ba66b97c",
+        "parentUid" : "041c44608dfb9c7e4c0c9bf4a07e235b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994784901,
+          "stop" : 1601994789210,
+          "duration" : 4309
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "78d4183250ce408c",
+        "parentUid" : "041c44608dfb9c7e4c0c9bf4a07e235b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994766647,
+          "stop" : 1601994767981,
+          "duration" : 1334
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "64e0e52a2479c5e8",
+        "parentUid" : "041c44608dfb9c7e4c0c9bf4a07e235b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994857737,
+          "stop" : 1601994903953,
+          "duration" : 46216
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "f9be7b4032b55d47",
+        "parentUid" : "041c44608dfb9c7e4c0c9bf4a07e235b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601994797399,
+          "stop" : 1601994854285,
+          "duration" : 56886
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "041c44608dfb9c7e4c0c9bf4a07e235b"
+    }, {
+      "name" : "2966@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "dce1d805a9d69884",
+        "parentUid" : "9c5a838134f09c072b3b56ab15ff253d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184766297,
+          "stop" : 1603184767608,
+          "duration" : 1311
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "3e11777dc14570a4",
+        "parentUid" : "9c5a838134f09c072b3b56ab15ff253d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184770375,
+          "stop" : 1603184774359,
+          "duration" : 3984
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "4bf8ef123b04d1e4",
+        "parentUid" : "9c5a838134f09c072b3b56ab15ff253d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184782533,
+          "stop" : 1603184786829,
+          "duration" : 4296
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "37112ecd7b72726a",
+        "parentUid" : "9c5a838134f09c072b3b56ab15ff253d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603184794642,
+          "stop" : 1603184831588,
+          "duration" : 36946
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "openChrome",
+        "uid" : "b6f59fbdbe52179",
+        "parentUid" : "9c5a838134f09c072b3b56ab15ff253d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603184834578,
+          "stop" : 1603184834579,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9c5a838134f09c072b3b56ab15ff253d"
+    }, {
+      "name" : "1993@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "677eba122d196700",
+        "parentUid" : "37aabe3fc8089fec54504987932436c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603268484318,
+          "stop" : 1603268491791,
+          "duration" : 7473
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "55e5fddaf71c6492",
+        "parentUid" : "37aabe3fc8089fec54504987932436c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603268320461,
+          "stop" : 1603268321785,
+          "duration" : 1324
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "e9f217b7cbf8c1ff",
+        "parentUid" : "37aabe3fc8089fec54504987932436c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603268330298,
+          "stop" : 1603268334358,
+          "duration" : 4060
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "2fd4006abc898a6a",
+        "parentUid" : "37aabe3fc8089fec54504987932436c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603268500579,
+          "stop" : 1603268520307,
+          "duration" : 19728
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "23c834b883a16ff1",
+        "parentUid" : "37aabe3fc8089fec54504987932436c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603268342262,
+          "stop" : 1603268346537,
+          "duration" : 4275
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "8e43556c88f8b0ad",
+        "parentUid" : "37aabe3fc8089fec54504987932436c3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603268552417,
+          "stop" : 1603268558664,
+          "duration" : 6247
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "68dcc3808770f656",
+        "parentUid" : "37aabe3fc8089fec54504987932436c3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603268354498,
+          "stop" : 1603268417518,
+          "duration" : 63020
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "7122df3f4c4a3ed",
+        "parentUid" : "37aabe3fc8089fec54504987932436c3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603268420543,
+          "stop" : 1603268476875,
+          "duration" : 56332
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "7889161d291b9bc9",
+        "parentUid" : "37aabe3fc8089fec54504987932436c3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603268528089,
+          "stop" : 1603268544159,
+          "duration" : 16070
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "37aabe3fc8089fec54504987932436c3"
+    }, {
+      "name" : "5494@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "47ca5ee5b943ca68",
+        "parentUid" : "a9cfee31d3513d27715115a0742ea91f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603195351024,
+          "stop" : 1603195394405,
+          "duration" : 43381
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a9cfee31d3513d27715115a0742ea91f"
+    }, {
+      "name" : "4561@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "54b0b108b0744ed1",
+        "parentUid" : "ad41dee41ef59941030475a9011b2a08",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602165156464,
+          "stop" : 1602165191760,
+          "duration" : 35296
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad41dee41ef59941030475a9011b2a08"
+    }, {
+      "name" : "5536@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "481c3fdb8e1239d9",
+        "parentUid" : "560c32c408ecc48a0e21ea2fdfdee94d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603195421663,
+          "stop" : 1603195464643,
+          "duration" : 42980
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "560c32c408ecc48a0e21ea2fdfdee94d"
+    }, {
+      "name" : "1432@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "bbb94e553c5416a1",
+        "parentUid" : "226713a5666cc3756b4e59bab073da44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603267161367,
+          "stop" : 1603267169777,
+          "duration" : 8410
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "e509acfd8bd6d8c4",
+        "parentUid" : "226713a5666cc3756b4e59bab073da44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603267014138,
+          "stop" : 1603267018438,
+          "duration" : 4300
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "de668ee53549694b",
+        "parentUid" : "226713a5666cc3756b4e59bab073da44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603267226704,
+          "stop" : 1603267241638,
+          "duration" : 14934
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "598bb4ad842f4bde",
+        "parentUid" : "226713a5666cc3756b4e59bab073da44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603266998814,
+          "stop" : 1603267000127,
+          "duration" : 1313
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "761eaeb780670cae",
+        "parentUid" : "226713a5666cc3756b4e59bab073da44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603267002674,
+          "stop" : 1603267006494,
+          "duration" : 3820
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "df3042c9d2809cff",
+        "parentUid" : "226713a5666cc3756b4e59bab073da44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603267177279,
+          "stop" : 1603267196647,
+          "duration" : 19368
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "8b07ccdb44db6083",
+        "parentUid" : "226713a5666cc3756b4e59bab073da44",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603267026089,
+          "stop" : 1603267084295,
+          "duration" : 58206
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "9e30e862609204c4",
+        "parentUid" : "226713a5666cc3756b4e59bab073da44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603267204154,
+          "stop" : 1603267219068,
+          "duration" : 14914
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "72d28b666a294928",
+        "parentUid" : "226713a5666cc3756b4e59bab073da44",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603267097699,
+          "stop" : 1603267153549,
+          "duration" : 55850
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "226713a5666cc3756b4e59bab073da44"
+    }, {
+      "name" : "2275@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "4a609c8537aed05",
+        "parentUid" : "a18e324390141a96b45582ca656bb116",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603268893434,
+          "stop" : 1603268902693,
+          "duration" : 9259
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "2d0355b722aa9885",
+        "parentUid" : "a18e324390141a96b45582ca656bb116",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603268742711,
+          "stop" : 1603268747010,
+          "duration" : 4299
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "37120f1f9184b1ae",
+        "parentUid" : "a18e324390141a96b45582ca656bb116",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603268814353,
+          "stop" : 1603268869835,
+          "duration" : 55482
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "1efb7e2e46091e34",
+        "parentUid" : "a18e324390141a96b45582ca656bb116",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603268877432,
+          "stop" : 1603268885240,
+          "duration" : 7808
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "1551ca7574fbab84",
+        "parentUid" : "a18e324390141a96b45582ca656bb116",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603268730317,
+          "stop" : 1603268734646,
+          "duration" : 4329
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "5db41d6ec544c381",
+        "parentUid" : "a18e324390141a96b45582ca656bb116",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603268721360,
+          "stop" : 1603268722688,
+          "duration" : 1328
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "525cc425eb8a750e",
+        "parentUid" : "a18e324390141a96b45582ca656bb116",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603268754765,
+          "stop" : 1603268811399,
+          "duration" : 56634
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a18e324390141a96b45582ca656bb116"
+    }, {
+      "name" : "3331@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "2e6060cee450bfb6",
+        "parentUid" : "4201e14a4bbc5c46b1a4aa14d2a8f31a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602160859345,
+          "stop" : 1602160893087,
+          "duration" : 33742
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4201e14a4bbc5c46b1a4aa14d2a8f31a"
+    }, {
+      "name" : "2818@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "c29e3bdde6dbf756",
+        "parentUid" : "79630c1fdce2f9bf5868585ab054eb1d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603184563370,
+          "stop" : 1603184605806,
+          "duration" : 42436
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "a5e3f9d5f6c1dd9b",
+        "parentUid" : "79630c1fdce2f9bf5868585ab054eb1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184551284,
+          "stop" : 1603184555552,
+          "duration" : 4268
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "aca59655ddc5c70f",
+        "parentUid" : "79630c1fdce2f9bf5868585ab054eb1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184523025,
+          "stop" : 1603184524945,
+          "duration" : 1920
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "31355ea1ec7e0781",
+        "parentUid" : "79630c1fdce2f9bf5868585ab054eb1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184536451,
+          "stop" : 1603184540601,
+          "duration" : 4150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "79630c1fdce2f9bf5868585ab054eb1d"
+    }, {
+      "name" : "4877@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "11572194d448bcde",
+        "parentUid" : "e862ae90003d767ed7c9ca57512ca701",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603194112405,
+          "stop" : 1603194117119,
+          "duration" : 4714
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "5fb726ed60a649a3",
+        "parentUid" : "e862ae90003d767ed7c9ca57512ca701",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603194078229,
+          "stop" : 1603194079704,
+          "duration" : 1475
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "225be9d790f47ce7",
+        "parentUid" : "e862ae90003d767ed7c9ca57512ca701",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603194099909,
+          "stop" : 1603194104192,
+          "duration" : 4283
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "a09a5d51a4d3016b",
+        "parentUid" : "e862ae90003d767ed7c9ca57512ca701",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603194087952,
+          "stop" : 1603194091909,
+          "duration" : 3957
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e862ae90003d767ed7c9ca57512ca701"
+    }, {
+      "name" : "6096@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "ffaf7c59b471b9b4",
+        "parentUid" : "cf8fbcc389d08cbb7782520c2260d05a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603197872666,
+          "stop" : 1603197913414,
+          "duration" : 40748
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cf8fbcc389d08cbb7782520c2260d05a"
+    }, {
+      "name" : "10821@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "3caa1716ea388bf2",
+        "parentUid" : "b659967e513923a7c417da6eec9f7c29",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601997441896,
+          "stop" : 1601997492602,
+          "duration" : 50706
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "4459a76837378f14",
+        "parentUid" : "b659967e513923a7c417da6eec9f7c29",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601997565141,
+          "stop" : 1601997579891,
+          "duration" : 14750
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "a89a7909fc838a4e",
+        "parentUid" : "b659967e513923a7c417da6eec9f7c29",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601997329602,
+          "stop" : 1601997331094,
+          "duration" : 1492
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "ed86b21182530c89",
+        "parentUid" : "b659967e513923a7c417da6eec9f7c29",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601997355584,
+          "stop" : 1601997359891,
+          "duration" : 4307
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "46369bd5d2a6f2ef",
+        "parentUid" : "b659967e513923a7c417da6eec9f7c29",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601997515550,
+          "stop" : 1601997534994,
+          "duration" : 19444
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "1708b78ea8d2bb62",
+        "parentUid" : "b659967e513923a7c417da6eec9f7c29",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601997500045,
+          "stop" : 1601997507442,
+          "duration" : 7397
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "651442d7cac3966b",
+        "parentUid" : "b659967e513923a7c417da6eec9f7c29",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601997341047,
+          "stop" : 1601997347724,
+          "duration" : 6677
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "c1ba6ac39a7685b7",
+        "parentUid" : "b659967e513923a7c417da6eec9f7c29",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601997367590,
+          "stop" : 1601997433970,
+          "duration" : 66380
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "db68d9b89adcbdbd",
+        "parentUid" : "b659967e513923a7c417da6eec9f7c29",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601997542622,
+          "stop" : 1601997557449,
+          "duration" : 14827
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b659967e513923a7c417da6eec9f7c29"
+    }, {
+      "name" : "10230@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "cd5724bfb4e3c253",
+        "parentUid" : "12c82080846afa719c2e0e1c596ed7a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601995089507,
+          "stop" : 1601995145533,
+          "duration" : 56026
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "ad45ff86c1f927d0",
+        "parentUid" : "12c82080846afa719c2e0e1c596ed7a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601995149572,
+          "stop" : 1601995195980,
+          "duration" : 46408
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "319a68dea2be55a4",
+        "parentUid" : "12c82080846afa719c2e0e1c596ed7a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601995077528,
+          "stop" : 1601995081817,
+          "duration" : 4289
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "b3123af9a83ff62c",
+        "parentUid" : "12c82080846afa719c2e0e1c596ed7a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601995064245,
+          "stop" : 1601995069819,
+          "duration" : 5574
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "e6db95c58d26d8d9",
+        "parentUid" : "12c82080846afa719c2e0e1c596ed7a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601995059488,
+          "stop" : 1601995060812,
+          "duration" : 1324
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "bee5c43f58cbad6e",
+        "parentUid" : "12c82080846afa719c2e0e1c596ed7a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601995203609,
+          "stop" : 1601995211106,
+          "duration" : 7497
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "514b290511e17f52",
+        "parentUid" : "12c82080846afa719c2e0e1c596ed7a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601995219138,
+          "stop" : 1601995238740,
+          "duration" : 19602
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "c3e3cd6899ea9226",
+        "parentUid" : "12c82080846afa719c2e0e1c596ed7a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601995269918,
+          "stop" : 1601995284770,
+          "duration" : 14852
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "ed76ecab3b1292f6",
+        "parentUid" : "12c82080846afa719c2e0e1c596ed7a4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601995246594,
+          "stop" : 1601995261557,
+          "duration" : 14963
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "12c82080846afa719c2e0e1c596ed7a4"
+    }, {
+      "name" : "8168@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "2d121d7b1686d546",
+        "parentUid" : "25f1ad4797ccd0167fe5a5fc5554a84b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601991821585,
+          "stop" : 1601991822980,
+          "duration" : 1395
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "366f2ef7799119d6",
+        "parentUid" : "25f1ad4797ccd0167fe5a5fc5554a84b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601991826106,
+          "stop" : 1601991832846,
+          "duration" : 6740
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "b3d551e78780d28e",
+        "parentUid" : "25f1ad4797ccd0167fe5a5fc5554a84b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601991837840,
+          "stop" : 1601991837845,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "dd3ac9f7faf032e6",
+        "parentUid" : "25f1ad4797ccd0167fe5a5fc5554a84b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601991847915,
+          "stop" : 1601991847923,
+          "duration" : 8
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "867ab003e46b8717",
+        "parentUid" : "25f1ad4797ccd0167fe5a5fc5554a84b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601991835505,
+          "stop" : 1601991835534,
+          "duration" : 29
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "587e118adabae83f",
+        "parentUid" : "25f1ad4797ccd0167fe5a5fc5554a84b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601991845010,
+          "stop" : 1601991845017,
+          "duration" : 7
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "25f1ad4797ccd0167fe5a5fc5554a84b"
+    }, {
+      "name" : "1632@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "9f279c1db6a708c9",
+        "parentUid" : "a47a9555b1a9380312ae1d9a2b73dc85",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603183248823,
+          "stop" : 1603183281797,
+          "duration" : 32974
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "a3aa540022c4cf22",
+        "parentUid" : "a47a9555b1a9380312ae1d9a2b73dc85",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183215534,
+          "stop" : 1603183216875,
+          "duration" : 1341
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "2a54a6718caede71",
+        "parentUid" : "a47a9555b1a9380312ae1d9a2b73dc85",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183233017,
+          "stop" : 1603183237299,
+          "duration" : 4282
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "1d853c3c44066968",
+        "parentUid" : "a47a9555b1a9380312ae1d9a2b73dc85",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183220064,
+          "stop" : 1603183224645,
+          "duration" : 4581
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a47a9555b1a9380312ae1d9a2b73dc85"
+    }, {
+      "name" : "4855@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "f1f869a9442c7d42",
+        "parentUid" : "82fc490cef9024b7bad6a8d2f9298fbb",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602165612798,
+          "stop" : 1602165654827,
+          "duration" : 42029
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "82fc490cef9024b7bad6a8d2f9298fbb"
+    }, {
+      "name" : "4250@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "1cd84316340f9e6",
+        "parentUid" : "5fd198f7975f0eba129f0f3ec5abef0a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603192841482,
+          "stop" : 1603192857853,
+          "duration" : 16371
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "299d0875bf015d0a",
+        "parentUid" : "5fd198f7975f0eba129f0f3ec5abef0a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603192866122,
+          "stop" : 1603192881679,
+          "duration" : 15557
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "28de64228c940e5d",
+        "parentUid" : "5fd198f7975f0eba129f0f3ec5abef0a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603192657348,
+          "stop" : 1603192666800,
+          "duration" : 9452
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "72a43d3699ecf9ea",
+        "parentUid" : "5fd198f7975f0eba129f0f3ec5abef0a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603192684106,
+          "stop" : 1603192721610,
+          "duration" : 37504
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "b00ad083e16ff8cf",
+        "parentUid" : "5fd198f7975f0eba129f0f3ec5abef0a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603192652470,
+          "stop" : 1603192653749,
+          "duration" : 1279
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "c369c19b7a2ee203",
+        "parentUid" : "5fd198f7975f0eba129f0f3ec5abef0a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603192735830,
+          "stop" : 1603192790550,
+          "duration" : 54720
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "2b60d58e72671b3f",
+        "parentUid" : "5fd198f7975f0eba129f0f3ec5abef0a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603192671660,
+          "stop" : 1603192676028,
+          "duration" : 4368
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "1da3dfd729e1a5dc",
+        "parentUid" : "5fd198f7975f0eba129f0f3ec5abef0a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603192799205,
+          "stop" : 1603192805481,
+          "duration" : 6276
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "2c4d5d5284fcdba7",
+        "parentUid" : "5fd198f7975f0eba129f0f3ec5abef0a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603192813037,
+          "stop" : 1603192833451,
+          "duration" : 20414
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5fd198f7975f0eba129f0f3ec5abef0a"
+    }, {
+      "name" : "7068@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "3cf438d33b87b9b3",
+        "parentUid" : "593f640fd5e695af4a4ba51def88f4c7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603199949949,
+          "stop" : 1603199966336,
+          "duration" : 16387
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "593f640fd5e695af4a4ba51def88f4c7"
+    }, {
+      "name" : "3149@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "7b427ceaa3eb9d83",
+        "parentUid" : "9934e7f28cb58e738b864d6d2d523d5b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603118628680,
+          "stop" : 1603118632967,
+          "duration" : 4287
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "ebd0fb1ef4ddfc6c",
+        "parentUid" : "9934e7f28cb58e738b864d6d2d523d5b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603118640670,
+          "stop" : 1603118659527,
+          "duration" : 18857
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "dd8362771235ff67",
+        "parentUid" : "9934e7f28cb58e738b864d6d2d523d5b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603118760604,
+          "stop" : 1603118788968,
+          "duration" : 28364
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "9450a6fe414a0cfa",
+        "parentUid" : "9934e7f28cb58e738b864d6d2d523d5b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603118662716,
+          "stop" : 1603118719717,
+          "duration" : 57001
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "d09085bc6af449c8",
+        "parentUid" : "9934e7f28cb58e738b864d6d2d523d5b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603118616723,
+          "stop" : 1603118620702,
+          "duration" : 3979
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "3a139d9ca401044f",
+        "parentUid" : "9934e7f28cb58e738b864d6d2d523d5b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603118612740,
+          "stop" : 1603118614052,
+          "duration" : 1312
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "22476cc2f1c0ee87",
+        "parentUid" : "9934e7f28cb58e738b864d6d2d523d5b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603118797514,
+          "stop" : 1603118803749,
+          "duration" : 6235
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "98acb6c6f8f0fb23",
+        "parentUid" : "9934e7f28cb58e738b864d6d2d523d5b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603118742660,
+          "stop" : 1603118752066,
+          "duration" : 9406
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "53ad22064896e47b",
+        "parentUid" : "9934e7f28cb58e738b864d6d2d523d5b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603118727247,
+          "stop" : 1603118735137,
+          "duration" : 7890
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9934e7f28cb58e738b864d6d2d523d5b"
+    }, {
+      "name" : "2509@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "2c55c1d6673a1a23",
+        "parentUid" : "6ed973e442d999c8ed61922ec3d01e57",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603268975149,
+          "stop" : 1603268976477,
+          "duration" : 1328
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "8296f846b833925b",
+        "parentUid" : "6ed973e442d999c8ed61922ec3d01e57",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269175446,
+          "stop" : 1603269190489,
+          "duration" : 15043
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "4c322334d7ffba53",
+        "parentUid" : "6ed973e442d999c8ed61922ec3d01e57",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269132998,
+          "stop" : 1603269140384,
+          "duration" : 7386
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "29fda8d8e9c1f637",
+        "parentUid" : "6ed973e442d999c8ed61922ec3d01e57",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603269008975,
+          "stop" : 1603269067098,
+          "duration" : 58123
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "10bf85e96237e590",
+        "parentUid" : "6ed973e442d999c8ed61922ec3d01e57",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269148058,
+          "stop" : 1603269167701,
+          "duration" : 19643
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "1967f111f2360379",
+        "parentUid" : "6ed973e442d999c8ed61922ec3d01e57",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269198057,
+          "stop" : 1603269212275,
+          "duration" : 14218
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "8bb6df825b6089f9",
+        "parentUid" : "6ed973e442d999c8ed61922ec3d01e57",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269070099,
+          "stop" : 1603269125405,
+          "duration" : 55306
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "be801c7d30da7a66",
+        "parentUid" : "6ed973e442d999c8ed61922ec3d01e57",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603268995983,
+          "stop" : 1603269000297,
+          "duration" : 4314
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "3fca949d52dc931f",
+        "parentUid" : "6ed973e442d999c8ed61922ec3d01e57",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603268984188,
+          "stop" : 1603268988193,
+          "duration" : 4005
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6ed973e442d999c8ed61922ec3d01e57"
+    }, {
+      "name" : "3379@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "104f8d812e70dca9",
+        "parentUid" : "b8d66243d98d468d53c82c9d2dba2315",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602160940075,
+          "stop" : 1602160972831,
+          "duration" : 32756
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b8d66243d98d468d53c82c9d2dba2315"
+    }, {
+      "name" : "2890@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "35ff3835203c543a",
+        "parentUid" : "8dedb4896fbb5279b07c6910ba454fc4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603118299887,
+          "stop" : 1603118319122,
+          "duration" : 19235
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "ba748507446a17b7",
+        "parentUid" : "8dedb4896fbb5279b07c6910ba454fc4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603118287040,
+          "stop" : 1603118291301,
+          "duration" : 4261
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "22c32ba93ebb296f",
+        "parentUid" : "8dedb4896fbb5279b07c6910ba454fc4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603118430149,
+          "stop" : 1603118444918,
+          "duration" : 14769
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "50482d824b12998c",
+        "parentUid" : "8dedb4896fbb5279b07c6910ba454fc4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603118402541,
+          "stop" : 1603118422035,
+          "duration" : 19494
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "92948134c58ad3e0",
+        "parentUid" : "8dedb4896fbb5279b07c6910ba454fc4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603118274519,
+          "stop" : 1603118279066,
+          "duration" : 4547
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "7e078720d0a18f9f",
+        "parentUid" : "8dedb4896fbb5279b07c6910ba454fc4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603118262309,
+          "stop" : 1603118263643,
+          "duration" : 1334
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "8a6d5ef62f5826d2",
+        "parentUid" : "8dedb4896fbb5279b07c6910ba454fc4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603118455680,
+          "stop" : 1603118469827,
+          "duration" : 14147
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "eb84047e0eaf57da",
+        "parentUid" : "8dedb4896fbb5279b07c6910ba454fc4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603118385603,
+          "stop" : 1603118394604,
+          "duration" : 9001
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "81853c8c56198243",
+        "parentUid" : "8dedb4896fbb5279b07c6910ba454fc4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603118322873,
+          "stop" : 1603118376263,
+          "duration" : 53390
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8dedb4896fbb5279b07c6910ba454fc4"
+    }, {
+      "name" : "5244@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "70399212b0138296",
+        "parentUid" : "3fd2679c6423f4802e997aa7d5918cfa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603194726212,
+          "stop" : 1603194766091,
+          "duration" : 39879
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3fd2679c6423f4802e997aa7d5918cfa"
+    }, {
+      "name" : "1099@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "b0bef9e532aeb003",
+        "parentUid" : "126d34eaf55698aaceb515e33d569d00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603266846821,
+          "stop" : 1603266861881,
+          "duration" : 15060
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "e8c3f89382675306",
+        "parentUid" : "126d34eaf55698aaceb515e33d569d00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603266669942,
+          "stop" : 1603266728478,
+          "duration" : 58536
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "74a38eaa8b575486",
+        "parentUid" : "126d34eaf55698aaceb515e33d569d00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603266819693,
+          "stop" : 1603266839119,
+          "duration" : 19426
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "15d574bbbff918ae",
+        "parentUid" : "126d34eaf55698aaceb515e33d569d00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603266741653,
+          "stop" : 1603266796693,
+          "duration" : 55040
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "f00acd2caca1bdd6",
+        "parentUid" : "126d34eaf55698aaceb515e33d569d00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603266804166,
+          "stop" : 1603266811753,
+          "duration" : 7587
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "82acfc161234d602",
+        "parentUid" : "126d34eaf55698aaceb515e33d569d00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603266640201,
+          "stop" : 1603266641605,
+          "duration" : 1404
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "d7a5b85b5a0acb90",
+        "parentUid" : "126d34eaf55698aaceb515e33d569d00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603266869808,
+          "stop" : 1603266884123,
+          "duration" : 14315
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "cbc51970d4c45982",
+        "parentUid" : "126d34eaf55698aaceb515e33d569d00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603266657568,
+          "stop" : 1603266661965,
+          "duration" : 4397
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "97e845f30fe01752",
+        "parentUid" : "126d34eaf55698aaceb515e33d569d00",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603266644791,
+          "stop" : 1603266648993,
+          "duration" : 4202
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "126d34eaf55698aaceb515e33d569d00"
+    }, {
+      "name" : "5340@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "5aef723926650ed8",
+        "parentUid" : "b40e5a11dea98dfc1186a52a91132ec0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603194884721,
+          "stop" : 1603194925656,
+          "duration" : 40935
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b40e5a11dea98dfc1186a52a91132ec0"
+    }, {
+      "name" : "1909@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "a7ca71901010b34",
+        "parentUid" : "6dd98e3bbfd3beac66db9c663e621901",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183471678,
+          "stop" : 1603183475978,
+          "duration" : 4300
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "89ab29e8e463c3d5",
+        "parentUid" : "6dd98e3bbfd3beac66db9c663e621901",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603183483879,
+          "stop" : 1603183512270,
+          "duration" : 28391
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "9a89d0ccff75db19",
+        "parentUid" : "6dd98e3bbfd3beac66db9c663e621901",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183454916,
+          "stop" : 1603183456223,
+          "duration" : 1307
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "d030a2c99799a9d3",
+        "parentUid" : "6dd98e3bbfd3beac66db9c663e621901",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183459671,
+          "stop" : 1603183463938,
+          "duration" : 4267
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6dd98e3bbfd3beac66db9c663e621901"
+    }, {
+      "name" : "2972@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "da60272e2785d0a7",
+        "parentUid" : "27bf44e7c36633ba53cda15605b91926",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269480628,
+          "stop" : 1603269484932,
+          "duration" : 4304
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "b83a9cc219db3fd4",
+        "parentUid" : "27bf44e7c36633ba53cda15605b91926",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603269492600,
+          "stop" : 1603269551539,
+          "duration" : 58939
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "cc0c09bb29aac9c4",
+        "parentUid" : "27bf44e7c36633ba53cda15605b91926",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269468739,
+          "stop" : 1603269472677,
+          "duration" : 3938
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "3327c23f09377dc6",
+        "parentUid" : "27bf44e7c36633ba53cda15605b91926",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603269464831,
+          "stop" : 1603269466106,
+          "duration" : 1275
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "27bf44e7c36633ba53cda15605b91926"
+    }, {
+      "name" : "9520@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "f0d0df90e87d88b",
+        "parentUid" : "65913c6d8fc702f739527993984fade7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994210899,
+          "stop" : 1601994225892,
+          "duration" : 14993
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "e1419a7eb09085e6",
+        "parentUid" : "65913c6d8fc702f739527993984fade7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994001992,
+          "stop" : 1601994003342,
+          "duration" : 1350
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "730efb734c35f602",
+        "parentUid" : "65913c6d8fc702f739527993984fade7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994019950,
+          "stop" : 1601994024295,
+          "duration" : 4345
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "71d2b8ea586aeef4",
+        "parentUid" : "65913c6d8fc702f739527993984fade7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994183756,
+          "stop" : 1601994203035,
+          "duration" : 19279
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "aa5d4f7559e727fb",
+        "parentUid" : "65913c6d8fc702f739527993984fade7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994110017,
+          "stop" : 1601994160764,
+          "duration" : 50747
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "afa71012deaeef36",
+        "parentUid" : "65913c6d8fc702f739527993984fade7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994006596,
+          "stop" : 1601994012340,
+          "duration" : 5744
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "10a9f43333a9cd87",
+        "parentUid" : "65913c6d8fc702f739527993984fade7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994033796,
+          "stop" : 1601994100975,
+          "duration" : 67179
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "b7cfdcb6640d4835",
+        "parentUid" : "65913c6d8fc702f739527993984fade7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994233539,
+          "stop" : 1601994247738,
+          "duration" : 14199
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "e902dee8b32bb2c9",
+        "parentUid" : "65913c6d8fc702f739527993984fade7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601994168764,
+          "stop" : 1601994176279,
+          "duration" : 7515
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "65913c6d8fc702f739527993984fade7"
+    }, {
+      "name" : "4396@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "8faf9d30f9540a37",
+        "parentUid" : "2fe1a61e499b2fc5844482d00e0087fc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602164938522,
+          "stop" : 1602164971316,
+          "duration" : 32794
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2fe1a61e499b2fc5844482d00e0087fc"
+    }, {
+      "name" : "4741@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "824b93e88298e28c",
+        "parentUid" : "42284ac20c478b435d85450de0f156b0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602165414742,
+          "stop" : 1602165439471,
+          "duration" : 24729
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "42284ac20c478b435d85450de0f156b0"
+    }, {
+      "name" : "6573@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "8f34967d0c117fb2",
+        "parentUid" : "953633ed36559ac9c69d113216b3fca5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603198858851,
+          "stop" : 1603198920868,
+          "duration" : 62017
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "953633ed36559ac9c69d113216b3fca5"
+    }, {
+      "name" : "6865@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "52e8674ee7df5ef8",
+        "parentUid" : "3c4fb2cdc26e83fa992dbeba64fa4c04",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603199482838,
+          "stop" : 1603199547035,
+          "duration" : 64197
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3c4fb2cdc26e83fa992dbeba64fa4c04"
+    }, {
+      "name" : "8425@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user manage profile page successfully",
+        "uid" : "d5a2ae934c2dc4c6",
+        "parentUid" : "04ccdb32834cccbda32a61356cf11307",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601992142050,
+          "stop" : 1601992156984,
+          "duration" : 14934
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "c83e314138a8610c",
+        "parentUid" : "04ccdb32834cccbda32a61356cf11307",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601992115005,
+          "stop" : 1601992134430,
+          "duration" : 19425
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "68800c5f72d3825d",
+        "parentUid" : "04ccdb32834cccbda32a61356cf11307",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601991966650,
+          "stop" : 1601992032915,
+          "duration" : 66265
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "c0e2f03733c4bdfc",
+        "parentUid" : "04ccdb32834cccbda32a61356cf11307",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601991954387,
+          "stop" : 1601991958683,
+          "duration" : 4296
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "8163d90689851b79",
+        "parentUid" : "04ccdb32834cccbda32a61356cf11307",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601992099007,
+          "stop" : 1601992107193,
+          "duration" : 8186
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "fb7b5f5de536a067",
+        "parentUid" : "04ccdb32834cccbda32a61356cf11307",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601991942975,
+          "stop" : 1601991944397,
+          "duration" : 1422
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This Test case tests if user can use settings successfully",
+        "uid" : "c0b5a085769b1060",
+        "parentUid" : "04ccdb32834cccbda32a61356cf11307",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601992165789,
+          "stop" : 1601992180336,
+          "duration" : 14547
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "b56b38ac6d2dc8c2",
+        "parentUid" : "04ccdb32834cccbda32a61356cf11307",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601992040632,
+          "stop" : 1601992091573,
+          "duration" : 50941
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "04ccdb32834cccbda32a61356cf11307"
+    }, {
+      "name" : "7743@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "ae92cfe03aa0c735",
+        "parentUid" : "197d7b0a3311e49bf5497cfad400d882",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603200941420,
+          "stop" : 1603200942737,
+          "duration" : 1317
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "d690258be5294360",
+        "parentUid" : "197d7b0a3311e49bf5497cfad400d882",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603200958228,
+          "stop" : 1603200962687,
+          "duration" : 4459
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "4af0a7e5fce3bee9",
+        "parentUid" : "197d7b0a3311e49bf5497cfad400d882",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603200986159,
+          "stop" : 1603201019373,
+          "duration" : 33214
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "bce2c12d3ff9eed2",
+        "parentUid" : "197d7b0a3311e49bf5497cfad400d882",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603200971311,
+          "stop" : 1603200983220,
+          "duration" : 11909
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "e507048d111efc00",
+        "parentUid" : "197d7b0a3311e49bf5497cfad400d882",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603200945599,
+          "stop" : 1603200950015,
+          "duration" : 4416
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "197d7b0a3311e49bf5497cfad400d882"
+    }, {
+      "name" : "4077@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "6b65f12dbdc58f6a",
+        "parentUid" : "33ae13c0bb5ac48084f6a13eb47c1e8d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602068652338,
+          "stop" : 1602068678184,
+          "duration" : 25846
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "33ae13c0bb5ac48084f6a13eb47c1e8d"
+    }, {
+      "name" : "4326@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "42f80974acdad80f",
+        "parentUid" : "e7c5895b29d5681c1de5aef50c8e923b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602164692094,
+          "stop" : 1602164732948,
+          "duration" : 40854
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e7c5895b29d5681c1de5aef50c8e923b"
+    }, {
+      "name" : "1775@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "28d87356deef27ca",
+        "parentUid" : "dcc2ce4554c358f307b8ee6ec59bedef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183332376,
+          "stop" : 1603183336385,
+          "duration" : 4009
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "203d1e8c9340b3a3",
+        "parentUid" : "dcc2ce4554c358f307b8ee6ec59bedef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183327604,
+          "stop" : 1603183328950,
+          "duration" : 1346
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "fa3a4c4beb75845d",
+        "parentUid" : "dcc2ce4554c358f307b8ee6ec59bedef",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603183356796,
+          "stop" : 1603183387070,
+          "duration" : 30274
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "a68ad761fc7dcac4",
+        "parentUid" : "dcc2ce4554c358f307b8ee6ec59bedef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183344532,
+          "stop" : 1603183348836,
+          "duration" : 4304
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dcc2ce4554c358f307b8ee6ec59bedef"
+    }, {
+      "name" : "4653@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "a877df49a379e849",
+        "parentUid" : "7209aa6c07264834e6491eac37bfd16f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602165290070,
+          "stop" : 1602165336027,
+          "duration" : 45957
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7209aa6c07264834e6491eac37bfd16f"
+    }, {
+      "name" : "9023@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "f6acd83f52bee534",
+        "parentUid" : "102a89818d4acb6ef6c44f41bd84aa8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601992421599,
+          "stop" : 1601992472217,
+          "duration" : 50618
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "2850f5bb39b8e810",
+        "parentUid" : "102a89818d4acb6ef6c44f41bd84aa8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601992347927,
+          "stop" : 1601992412554,
+          "duration" : 64627
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "4c53236f4d4f2992",
+        "parentUid" : "102a89818d4acb6ef6c44f41bd84aa8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601992331015,
+          "stop" : 1601992332352,
+          "duration" : 1337
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in file successfully",
+        "uid" : "2707ab13893e7e86",
+        "parentUid" : "102a89818d4acb6ef6c44f41bd84aa8a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1601992479877,
+          "stop" : 1601992488506,
+          "duration" : 8629
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can manage user page successfully",
+        "uid" : "32fd33b3958452d4",
+        "parentUid" : "102a89818d4acb6ef6c44f41bd84aa8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601992496136,
+          "stop" : 1601992515758,
+          "duration" : 19622
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "65a3fe1d76c06338",
+        "parentUid" : "102a89818d4acb6ef6c44f41bd84aa8a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1601992335634,
+          "stop" : 1601992340303,
+          "duration" : 4669
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "102a89818d4acb6ef6c44f41bd84aa8a"
+    }, {
+      "name" : "5885@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "1a51f2114bf44bfb",
+        "parentUid" : "48a3bcd392b36c165be466b65b1be134",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603197047296,
+          "stop" : 1603197086969,
+          "duration" : 39673
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "48a3bcd392b36c165be466b65b1be134"
+    }, {
+      "name" : "4800@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "3f9992f66d9116d7",
+        "parentUid" : "7da85b317b349705932240cd7515d768",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602165547830,
+          "stop" : 1602165572395,
+          "duration" : 24565
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7da85b317b349705932240cd7515d768"
+    }, {
+      "name" : "5105@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "e457ea888ed2fc1",
+        "parentUid" : "2b55ea9663e51304bebfda50e2497a6a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603194368907,
+          "stop" : 1603194409022,
+          "duration" : 40115
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2b55ea9663e51304bebfda50e2497a6a"
+    }, {
+      "name" : "6685@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "1988d847826da43b",
+        "parentUid" : "ba60625e84d662f1995a341c5cfd7bd7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603199115999,
+          "stop" : 1603199177487,
+          "duration" : 61488
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ba60625e84d662f1995a341c5cfd7bd7"
+    }, {
+      "name" : "7912@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "a6a30dfb183ca393",
+        "parentUid" : "072fc24280a1f50f97fbc842bfca1f21",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603201188661,
+          "stop" : 1603201192725,
+          "duration" : 4064
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "c042289a9ca0678f",
+        "parentUid" : "072fc24280a1f50f97fbc842bfca1f21",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603201184573,
+          "stop" : 1603201185880,
+          "duration" : 1307
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "072fc24280a1f50f97fbc842bfca1f21"
+    }, {
+      "name" : "6637@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "1768f4c992b61591",
+        "parentUid" : "f59a64a1a2e8e845b8dd72ef442665d1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603198995391,
+          "stop" : 1603199007227,
+          "duration" : 11836
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f59a64a1a2e8e845b8dd72ef442665d1"
+    }, {
+      "name" : "6313@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "3c4303cea7ec054a",
+        "parentUid" : "10023e16e0948e8f5cb22c2743d3b100",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603198215326,
+          "stop" : 1603198229522,
+          "duration" : 14196
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "10023e16e0948e8f5cb22c2743d3b100"
+    }, {
+      "name" : "7337@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "302c72b77aab5691",
+        "parentUid" : "616e5130b0d827d3e84a76076ca05795",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603200386911,
+          "stop" : 1603200445928,
+          "duration" : 59017
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "616e5130b0d827d3e84a76076ca05795"
+    }, {
+      "name" : "3172@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "8bce60cef9db543",
+        "parentUid" : "469509628538e23b3b57893a0f8edb44",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602160574731,
+          "stop" : 1602160616023,
+          "duration" : 41292
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "469509628538e23b3b57893a0f8edb44"
+    }, {
+      "name" : "7602@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "98641bc0727de7c4",
+        "parentUid" : "5a62331a8becebe9bf55eafd95fdac5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603200786451,
+          "stop" : 1603200790748,
+          "duration" : 4297
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "5db102b8383489c7",
+        "parentUid" : "5a62331a8becebe9bf55eafd95fdac5e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603200799726,
+          "stop" : 1603200811554,
+          "duration" : 11828
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "6089cb48b586ded7",
+        "parentUid" : "5a62331a8becebe9bf55eafd95fdac5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603200774826,
+          "stop" : 1603200778757,
+          "duration" : 3931
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "af5a672b6748243a",
+        "parentUid" : "5a62331a8becebe9bf55eafd95fdac5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603200770873,
+          "stop" : 1603200772205,
+          "duration" : 1332
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5a62331a8becebe9bf55eafd95fdac5e"
+    }, {
+      "name" : "5780@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "398379822a7d0708",
+        "parentUid" : "2d0ce7ff9d0095c845b6f9683e42c219",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603196692814,
+          "stop" : 1603196737104,
+          "duration" : 44290
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2d0ce7ff9d0095c845b6f9683e42c219"
+    }, {
+      "name" : "7196@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "fc7f097880ae3df7",
+        "parentUid" : "c29d15f1c361dd488b40c29271c5990c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603200167963,
+          "stop" : 1603200239139,
+          "duration" : 71176
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c29d15f1c361dd488b40c29271c5990c"
+    }, {
+      "name" : "5628@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "179dbeb63c47c0aa",
+        "parentUid" : "f3846a2eb2c8cfc06e401f83e855a9c9",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602077515071,
+          "stop" : 1602077574715,
+          "duration" : 59644
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f3846a2eb2c8cfc06e401f83e855a9c9"
+    }, {
+      "name" : "2045@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "de0cd75523c4d252",
+        "parentUid" : "aae46961b2d28a7380dbff82423bd738",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603183627728,
+          "stop" : 1603183663915,
+          "duration" : 36187
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can speak successfully in chat",
+        "uid" : "7324590076a4b697",
+        "parentUid" : "aae46961b2d28a7380dbff82423bd738",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603183667509,
+          "stop" : 1603183692586,
+          "duration" : 25077
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "9036db54682a3219",
+        "parentUid" : "aae46961b2d28a7380dbff82423bd738",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183615555,
+          "stop" : 1603183619847,
+          "duration" : 4292
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "acf288c1709a46a2",
+        "parentUid" : "aae46961b2d28a7380dbff82423bd738",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183602726,
+          "stop" : 1603183607692,
+          "duration" : 4966
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "df48f5fb216e2f6c",
+        "parentUid" : "aae46961b2d28a7380dbff82423bd738",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183592959,
+          "stop" : 1603183594188,
+          "duration" : 1229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aae46961b2d28a7380dbff82423bd738"
+    }, {
+      "name" : "6958@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "52e7a3273ff00011",
+        "parentUid" : "817005878a34a375e652754260eb0272",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603199779904,
+          "stop" : 1603199801333,
+          "duration" : 21429
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "817005878a34a375e652754260eb0272"
+    }, {
+      "name" : "5073@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "5ede8d85eeb77cae",
+        "parentUid" : "e6e7643d93ca9b9b8650d785eb1bb9aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602165992948,
+          "stop" : 1602166036677,
+          "duration" : 43729
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e6e7643d93ca9b9b8650d785eb1bb9aa"
+    }, {
+      "name" : "5448@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "f4a444d6e848f94f",
+        "parentUid" : "dd5e7986fe9a9081bb05d1803a5af41e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603195256711,
+          "stop" : 1603195299959,
+          "duration" : 43248
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dd5e7986fe9a9081bb05d1803a5af41e"
+    }, {
+      "name" : "3570@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "af76b286ef426b0e",
+        "parentUid" : "0a73701b0a6c5d77d22fda29252d3916",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602161875826,
+          "stop" : 1602161887500,
+          "duration" : 11674
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "c092a9f0df45ac1b",
+        "parentUid" : "0a73701b0a6c5d77d22fda29252d3916",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602062912945,
+          "stop" : 1602062972293,
+          "duration" : 59348
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0a73701b0a6c5d77d22fda29252d3916"
+    }, {
+      "name" : "6158@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "5fe91150327ad19b",
+        "parentUid" : "277a718bc7b33b8b010f5488d7ded0fc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603197946892,
+          "stop" : 1603197986993,
+          "duration" : 40101
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "277a718bc7b33b8b010f5488d7ded0fc"
+    }, {
+      "name" : "5711@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "39c50fc11be635b8",
+        "parentUid" : "6052db23cffe6f8e597f0923d6960de8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602077796891,
+          "stop" : 1602077863394,
+          "duration" : 66503
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6052db23cffe6f8e597f0923d6960de8"
+    }, {
+      "name" : "2377@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "8ffed3d3f70343d7",
+        "parentUid" : "1219ef5b56b4cc3a4759304eab059847",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603184011299,
+          "stop" : 1603184048250,
+          "duration" : 36951
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "127801db0db1c88e",
+        "parentUid" : "1219ef5b56b4cc3a4759304eab059847",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183998977,
+          "stop" : 1603184003244,
+          "duration" : 4267
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "1d72b20aa37ac336",
+        "parentUid" : "1219ef5b56b4cc3a4759304eab059847",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183981578,
+          "stop" : 1603183982908,
+          "duration" : 1330
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "1a62a1ebe69a99f",
+        "parentUid" : "1219ef5b56b4cc3a4759304eab059847",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603183986169,
+          "stop" : 1603183990707,
+          "duration" : 4538
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1219ef5b56b4cc3a4759304eab059847"
+    }, {
+      "name" : "4234@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "e9212c159f970ff0",
+        "parentUid" : "bf16048bc3f0cdac2404a1fc6c97a9e5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602164489198,
+          "stop" : 1602164530940,
+          "duration" : 41742
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bf16048bc3f0cdac2404a1fc6c97a9e5"
+    }, {
+      "name" : "4483@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "52986c606ec498df",
+        "parentUid" : "1ec45d39fdda419152ee029eabcca655",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602165063056,
+          "stop" : 1602165096225,
+          "duration" : 33169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1ec45d39fdda419152ee029eabcca655"
+    }, {
+      "name" : "1758@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "732ff7f5da6e48f5",
+        "parentUid" : "8c2c6d1d39fca7092e6f1f3aff726a1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603267366696,
+          "stop" : 1603267367987,
+          "duration" : 1291
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "982fcdc3e6a4eb01",
+        "parentUid" : "8c2c6d1d39fca7092e6f1f3aff726a1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603267370950,
+          "stop" : 1603267375033,
+          "duration" : 4083
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "4893a4e332089198",
+        "parentUid" : "8c2c6d1d39fca7092e6f1f3aff726a1d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603267382909,
+          "stop" : 1603267387175,
+          "duration" : 4266
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "5c6e7dbb5e420949",
+        "parentUid" : "8c2c6d1d39fca7092e6f1f3aff726a1d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603267395545,
+          "stop" : 1603267447908,
+          "duration" : 52363
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8c2c6d1d39fca7092e6f1f3aff726a1d"
+    }, {
+      "name" : "5011@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "6773841a413e5438",
+        "parentUid" : "3e2dddb106b300d9320bf1d70461cbac",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603194190788,
+          "stop" : 1603194232439,
+          "duration" : 41651
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3e2dddb106b300d9320bf1d70461cbac"
+    }, {
+      "name" : "2681@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "bc4ae28e7b64cc4d",
+        "parentUid" : "a07ca34a514d7d886582dc7b39c0870f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184408287,
+          "stop" : 1603184409837,
+          "duration" : 1550
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "d4d0147ba3933bc9",
+        "parentUid" : "a07ca34a514d7d886582dc7b39c0870f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603184443285,
+          "stop" : 1603184484937,
+          "duration" : 41652
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "1e05ef4d947b594",
+        "parentUid" : "a07ca34a514d7d886582dc7b39c0870f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184431034,
+          "stop" : 1603184435320,
+          "duration" : 4286
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "5561ef599a487bb7",
+        "parentUid" : "a07ca34a514d7d886582dc7b39c0870f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184418635,
+          "stop" : 1603184422884,
+          "duration" : 4249
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a07ca34a514d7d886582dc7b39c0870f"
+    }, {
+      "name" : "6432@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "8eff32f1255299d",
+        "parentUid" : "3c9de8e1ef33a7001c36aba58055cd10",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603198353666,
+          "stop" : 1603198412528,
+          "duration" : 58862
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3c9de8e1ef33a7001c36aba58055cd10"
+    }, {
+      "name" : "2526@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test case tests if user can navigate in Department successfully",
+        "uid" : "95bce23a4d9ff9df",
+        "parentUid" : "1ed3ed5dd010724a634f1ff391cceee4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184215780,
+          "stop" : 1603184220158,
+          "duration" : 4378
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "2569914a80f9282f",
+        "parentUid" : "1ed3ed5dd010724a634f1ff391cceee4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603184228208,
+          "stop" : 1603184270095,
+          "duration" : 41887
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Manager/Supervisor Dashboard",
+        "uid" : "6ef466c5a9e97422",
+        "parentUid" : "1ed3ed5dd010724a634f1ff391cceee4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184203492,
+          "stop" : 1603184207456,
+          "duration" : 3964
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test case tests if user can Login successfully",
+        "uid" : "898c1ea573d53e4a",
+        "parentUid" : "1ed3ed5dd010724a634f1ff391cceee4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603184199393,
+          "stop" : 1603184200732,
+          "duration" : 1339
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1ed3ed5dd010724a634f1ff391cceee4"
+    }, {
+      "name" : "7003@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "28a4ba069e907d61",
+        "parentUid" : "1a202399b21a9d740e02acb79de80378",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603199848933,
+          "stop" : 1603199914292,
+          "duration" : 65359
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1a202399b21a9d740e02acb79de80378"
+    }, {
+      "name" : "4611@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "89df04145726c604",
+        "parentUid" : "6d3bf18200597677ea5bb282f66053d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602165230230,
+          "stop" : 1602165257194,
+          "duration" : 26964
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6d3bf18200597677ea5bb282f66053d8"
+    }, {
+      "name" : "3981@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "9534afe07a44803c",
+        "parentUid" : "0a839eeb79cd56582adaf05133b3cccb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602163952089,
+          "stop" : 1602163993891,
+          "duration" : 41802
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0a839eeb79cd56582adaf05133b3cccb"
+    }, {
+      "name" : "3695@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "32d51d60a74d9e9",
+        "parentUid" : "82ba58e1d02a695e508f2a7c5d08a540",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602063189197,
+          "stop" : 1602063247497,
+          "duration" : 58300
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "82ba58e1d02a695e508f2a7c5d08a540"
+    }, {
+      "name" : "3282@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "12f1dfa109f3df4e",
+        "parentUid" : "3aaede055383cf9ed8fe2536d0789f26",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602160783123,
+          "stop" : 1602160822704,
+          "duration" : 39581
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "3aaede055383cf9ed8fe2536d0789f26"
+    }, {
+      "name" : "2970@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "58a71dbaf616a791",
+        "parentUid" : "ba2cd4de3367180b830cdc03b7f99456",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602159460827,
+          "stop" : 1602159472242,
+          "duration" : 11415
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ba2cd4de3367180b830cdc03b7f99456"
+    }, {
+      "name" : "3426@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "b6842b9fb44ac79b",
+        "parentUid" : "025c876f57535624d5ea2df2d84578bb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602161012640,
+          "stop" : 1602161024349,
+          "duration" : 11709
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "025c876f57535624d5ea2df2d84578bb"
+    }, {
+      "name" : "6394@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "openChrome",
+        "uid" : "f00d871759977c2c",
+        "parentUid" : "d057b619408d8021582f0c66690b7054",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603198331663,
+          "stop" : 1603198331665,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "This test is for Management Page",
+        "uid" : "91b08ab9c8db1066",
+        "parentUid" : "d057b619408d8021582f0c66690b7054",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1603198331685,
+          "stop" : 1603198331694,
+          "duration" : 9
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d057b619408d8021582f0c66690b7054"
+    }, {
+      "name" : "6806@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "1970e69c780d0ea2",
+        "parentUid" : "f5e1a8d2cbf50f64e5f5e60563c6aefb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603199360492,
+          "stop" : 1603199421369,
+          "duration" : 60877
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f5e1a8d2cbf50f64e5f5e60563c6aefb"
+    }, {
+      "name" : "7110@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "62ed5035820daf40",
+        "parentUid" : "7396cb582db3d3feec9a064f19f2af4f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603199993147,
+          "stop" : 1603200062971,
+          "duration" : 69824
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7396cb582db3d3feec9a064f19f2af4f"
+    }, {
+      "name" : "3226@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "45839b89cfa49556",
+        "parentUid" : "9a78c5b8aafa2c26cdb5c30c15af33cb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602160679203,
+          "stop" : 1602160719788,
+          "duration" : 40585
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9a78c5b8aafa2c26cdb5c30c15af33cb"
+    }, {
+      "name" : "4947@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "ad00cfd0851866b3",
+        "parentUid" : "351ed31613bdfbcf55bb8f9dffccf009",
+        "status" : "passed",
+        "time" : {
+          "start" : 1602165708288,
+          "stop" : 1602165750244,
+          "duration" : 41956
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "351ed31613bdfbcf55bb8f9dffccf009"
+    }, {
+      "name" : "6265@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "3afb56b05b05cd93",
+        "parentUid" : "32a49c5fd3b897c6d596d4f002452fa1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603198112034,
+          "stop" : 1603198164967,
+          "duration" : 52933
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "32a49c5fd3b897c6d596d4f002452fa1"
+    }, {
+      "name" : "7266@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "5c7cca58a0a09ee0",
+        "parentUid" : "fd4497a2b5a9916e0b4bdabf2ec00009",
+        "status" : "passed",
+        "time" : {
+          "start" : 1603200300710,
+          "stop" : 1603200361614,
+          "duration" : 60904
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fd4497a2b5a9916e0b4bdabf2ec00009"
+    }, {
+      "name" : "5298@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "5d1f395d5923f2b4",
+        "parentUid" : "0ceff111ab665367bf5d010b7a679929",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603194813933,
+          "stop" : 1603194856030,
+          "duration" : 42097
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0ceff111ab665367bf5d010b7a679929"
+    }, {
+      "name" : "5058@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "c832ee3b92876c0f",
+        "parentUid" : "40b1a69eaf73e6e4d41cdccda28f6ac7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603194272663,
+          "stop" : 1603194312435,
+          "duration" : 39772
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "40b1a69eaf73e6e4d41cdccda28f6ac7"
+    }, {
+      "name" : "5728@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "b0e814674ba0153",
+        "parentUid" : "96d6b5fcbed29f61e64749ebb188eae7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603196630459,
+          "stop" : 1603196674160,
+          "duration" : 43701
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "96d6b5fcbed29f61e64749ebb188eae7"
+    }, {
+      "name" : "3641@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "98fe417455edc867",
+        "parentUid" : "930381f5538e027e0d6d5bfd783afcad",
+        "status" : "broken",
+        "time" : {
+          "start" : 1602063088615,
+          "stop" : 1602063147256,
+          "duration" : 58641
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "930381f5538e027e0d6d5bfd783afcad"
+    }, {
+      "name" : "6350@Blerons-iMac.local.main(1)",
+      "children" : [ {
+        "name" : "This test is for Management Page",
+        "uid" : "99f848b45a11f46a",
+        "parentUid" : "a9b9fc036f9c37a3621e03b12152381e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603198250469,
+          "stop" : 1603198306610,
+          "duration" : 56141
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a9b9fc036f9c37a3621e03b12152381e"
+    } ],
+    "uid" : "6cbec3f2db35b5bdfdf10b0eb973f220"
+  } ]
+}

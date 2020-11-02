@@ -1,0 +1,1238 @@
+{
+  "uid" : "f375f0e4940b4cd4",
+  "name" : "This test is for Management Page",
+  "fullName" : "com.tests.SideManagementTests.testMethod",
+  "historyId" : "feed6f87287d811ad985286dd70efa2e",
+  "time" : {
+    "start" : 1603269620484,
+    "stop" : 1603269670474,
+    "duration" : 49990
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "openChrome",
+    "time" : {
+      "start" : 1603269613044,
+      "stop" : 1603269615430,
+      "duration" : 2386
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Step 1",
+      "time" : {
+        "start" : 1603269621868,
+        "stop" : 1603269622247,
+        "duration" : 379
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "390a03089ea17501",
+        "name" : "Shedwool Screenshot",
+        "source" : "390a03089ea17501.png",
+        "type" : "image/png",
+        "size" : 136420
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step 1",
+      "time" : {
+        "start" : 1603269623541,
+        "stop" : 1603269623869,
+        "duration" : 328
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "f1610b07dc03a9fa",
+        "name" : "Shedwool Screenshot",
+        "source" : "f1610b07dc03a9fa.png",
+        "type" : "image/png",
+        "size" : 26356
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step 1",
+      "time" : {
+        "start" : 1603269623869,
+        "stop" : 1603269625292,
+        "duration" : 1423
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eb4827ed0d074c29",
+        "name" : "Shedwool Screenshot",
+        "source" : "eb4827ed0d074c29.png",
+        "type" : "image/png",
+        "size" : 168486
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step 1",
+      "time" : {
+        "start" : 1603269627862,
+        "stop" : 1603269628187,
+        "duration" : 325
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "c76d7c614adb8297",
+        "name" : "Shedwool Screenshot",
+        "source" : "c76d7c614adb8297.png",
+        "type" : "image/png",
+        "size" : 145415
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step 1",
+      "time" : {
+        "start" : 1603269634478,
+        "stop" : 1603269634801,
+        "duration" : 323
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "eb7270dd8c6a17bc",
+        "name" : "Shedwool Screenshot",
+        "source" : "eb7270dd8c6a17bc.png",
+        "type" : "image/png",
+        "size" : 141880
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step 1",
+      "time" : {
+        "start" : 1603269634801,
+        "stop" : 1603269635310,
+        "duration" : 509
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "5b12f8f3ac15cdd2",
+        "name" : "Shedwool Screenshot",
+        "source" : "5b12f8f3ac15cdd2.png",
+        "type" : "image/png",
+        "size" : 141880
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step 1",
+      "time" : {
+        "start" : 1603269639138,
+        "stop" : 1603269639450,
+        "duration" : 312
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2b40132852c5d69e",
+        "name" : "Shedwool Screenshot",
+        "source" : "2b40132852c5d69e.png",
+        "type" : "image/png",
+        "size" : 144169
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step 1",
+      "time" : {
+        "start" : 1603269651623,
+        "stop" : 1603269652485,
+        "duration" : 862
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "60771ec8a61cdf0",
+        "name" : "Shedwool Screenshot",
+        "source" : "60771ec8a61cdf0.png",
+        "type" : "image/png",
+        "size" : 133600
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step 1",
+      "time" : {
+        "start" : 1603269652485,
+        "stop" : 1603269652774,
+        "duration" : 289
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "cdc2f9f431df8c85",
+        "name" : "Shedwool Screenshot",
+        "source" : "cdc2f9f431df8c85.png",
+        "type" : "image/png",
+        "size" : 133964
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step 1",
+      "time" : {
+        "start" : 1603269657580,
+        "stop" : 1603269657882,
+        "duration" : 302
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "2b6d4d799b3b2ba2",
+        "name" : "Shedwool Screenshot",
+        "source" : "2b6d4d799b3b2ba2.png",
+        "type" : "image/png",
+        "size" : 135441
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step 1",
+      "time" : {
+        "start" : 1603269664897,
+        "stop" : 1603269665684,
+        "duration" : 787
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "145647151cca580c",
+        "name" : "Shedwool Screenshot",
+        "source" : "145647151cca580c.png",
+        "type" : "image/png",
+        "size" : 133804
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step 1",
+      "time" : {
+        "start" : 1603269666096,
+        "stop" : 1603269666404,
+        "duration" : 308
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "4bf9592a2c790c90",
+        "name" : "Shedwool Screenshot",
+        "source" : "4bf9592a2c790c90.png",
+        "type" : "image/png",
+        "size" : 41425
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "Step 1",
+      "time" : {
+        "start" : 1603269670154,
+        "stop" : 1603269670474,
+        "duration" : 320
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "b2db86b6ec1b2d9f",
+        "name" : "Shedwool Screenshot",
+        "source" : "b2db86b6ec1b2d9f.png",
+        "type" : "image/png",
+        "size" : 51308
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 13,
+    "attachmentsCount" : 13,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "cleanUp",
+    "time" : {
+      "start" : 1603269670483,
+      "stop" : 1603269670582,
+      "duration" : 99
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.tests.SideManagementTests"
+  }, {
+    "name" : "testClass",
+    "value" : "com.tests.SideManagementTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testMethod"
+  }, {
+    "name" : "parentSuite",
+    "value" : "System Suite"
+  }, {
+    "name" : "suite",
+    "value" : "System Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.tests.SideManagementTests"
+  }, {
+    "name" : "host",
+    "value" : "Blerons-iMac.local"
+  }, {
+    "name" : "thread",
+    "value" : "3116@Blerons-iMac.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b83a9cc219db3fd4",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"table-templates\"]/div/div[2]/div/div/div/table/tbody/tr[1]/td[7]/div/button/span[1]/span\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:64101}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 5e0c05f0dae3097e77711cd56ef2547a\n*** Element info: {Using=xpath, value=//*[@id=\"table-templates\"]/div/div[2]/div/div/div/table/tbody/tr[1]/td[7]/div/button/span[1]/span}",
+      "time" : {
+        "start" : 1603269492600,
+        "stop" : 1603269551539,
+        "duration" : 58939
+      }
+    }, {
+      "uid" : "cae38be25e62e086",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"table-templates\"]/div/div[2]/div/div/div/table/tbody/tr[1]/td[7]/div/button/span[1]/span\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:63483}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 19b37f93cecb9372280c4a57740fe2bb\n*** Element info: {Using=xpath, value=//*[@id=\"table-templates\"]/div/div[2]/div/div/div/table/tbody/tr[1]/td[7]/div/button/span[1]/span}",
+      "time" : {
+        "start" : 1603269369748,
+        "stop" : 1603269427604,
+        "duration" : 57856
+      }
+    }, {
+      "uid" : "29fda8d8e9c1f637",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[contains(text(),'Review & Publish')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:61829}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: b1a94f0c2b96bd07306a11bb58c67eb2\n*** Element info: {Using=xpath, value=//span[contains(text(),'Review & Publish')]}",
+      "time" : {
+        "start" : 1603269008975,
+        "stop" : 1603269067098,
+        "duration" : 58123
+      }
+    }, {
+      "uid" : "525cc425eb8a750e",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[contains(text(),'Review & Publish')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:60625}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: aeb18935c85e4233e2557d05caf53b93\n*** Element info: {Using=xpath, value=//span[contains(text(),'Review & Publish')]}",
+      "time" : {
+        "start" : 1603268754765,
+        "stop" : 1603268811399,
+        "duration" : 56634
+      }
+    }, {
+      "uid" : "68dcc3808770f656",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[contains(text(),'Review & Publish')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:58796}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 5da06ce6181b753563ee03fcdc3c460a\n*** Element info: {Using=xpath, value=//span[contains(text(),'Review & Publish')]}",
+      "time" : {
+        "start" : 1603268354498,
+        "stop" : 1603268417518,
+        "duration" : 63020
+      }
+    }, {
+      "uid" : "5c6e7dbb5e420949",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@href='/management/locations']\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:54764}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 933ecb0bc0d64b289d531be6c6719491\n*** Element info: {Using=xpath, value=//a[@href='/management/locations']}",
+      "time" : {
+        "start" : 1603267395545,
+        "stop" : 1603267447908,
+        "duration" : 52363
+      }
+    }, {
+      "uid" : "8b07ccdb44db6083",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//span[contains(text(),'Review & Publish')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:53052}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 61a8ad284c9a2e9a00571f7c1a0fcb9f\n*** Element info: {Using=xpath, value=//span[contains(text(),'Review & Publish')]}",
+      "time" : {
+        "start" : 1603267026089,
+        "stop" : 1603267084295,
+        "duration" : 58206
+      }
+    }, {
+      "uid" : "e8c3f89382675306",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603266669942,
+        "stop" : 1603266728478,
+        "duration" : 58536
+      }
+    }, {
+      "uid" : "bce2c12d3ff9eed2",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@href='/management/locations']\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:62881}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: f83ee4294a5c8cbcc4007fe5e948bf7c\n*** Element info: {Using=xpath, value=//a[@href='/management/locations']}",
+      "time" : {
+        "start" : 1603200971311,
+        "stop" : 1603200983220,
+        "duration" : 11909
+      }
+    }, {
+      "uid" : "5db102b8383489c7",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@href='/management/locations']\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:62733}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 2e7d022d06b3cf7d36eadb609d841669\n*** Element info: {Using=xpath, value=//a[@href='/management/locations']}",
+      "time" : {
+        "start" : 1603200799726,
+        "stop" : 1603200811554,
+        "duration" : 11828
+      }
+    }, {
+      "uid" : "da53e9d679b37d58",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603200590601,
+        "stop" : 1603200648314,
+        "duration" : 57713
+      }
+    }, {
+      "uid" : "302c72b77aab5691",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603200386911,
+        "stop" : 1603200445928,
+        "duration" : 59017
+      }
+    }, {
+      "uid" : "5c7cca58a0a09ee0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603200300710,
+        "stop" : 1603200361614,
+        "duration" : 60904
+      }
+    }, {
+      "uid" : "fc7f097880ae3df7",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"root\"]/div/div[2]/div[2]/button\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:62349}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 621174bedec09f4828f6f420967ae033\n*** Element info: {Using=xpath, value=//*[@id=\"root\"]/div/div[2]/div[2]/button}",
+      "time" : {
+        "start" : 1603200167963,
+        "stop" : 1603200239139,
+        "duration" : 71176
+      }
+    }, {
+      "uid" : "62ed5035820daf40",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"root\"]/div/div[2]/div[2]/button\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:61932}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8b730e38718a736c659df887576b6ab6\n*** Element info: {Using=xpath, value=//*[@id=\"root\"]/div/div[2]/div[2]/button}",
+      "time" : {
+        "start" : 1603199993147,
+        "stop" : 1603200062971,
+        "duration" : 69824
+      }
+    }, {
+      "uid" : "3cf438d33b87b9b3",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Add New')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:61728}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 0b964bf82537a176531ed54b6689f8a6\n*** Element info: {Using=xpath, value=//button[contains(text(),'Add New')]}",
+      "time" : {
+        "start" : 1603199949949,
+        "stop" : 1603199966336,
+        "duration" : 16387
+      }
+    }, {
+      "uid" : "28a4ba069e907d61",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:61289}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8c2cf6ba0b29f18b1283317a7de3d0ff\n*** Element info: {Using=xpath, value=/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button}",
+      "time" : {
+        "start" : 1603199848933,
+        "stop" : 1603199914292,
+        "duration" : 65359
+      }
+    }, {
+      "uid" : "52e7a3273ff00011",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <a class=\"title_\" id=\"Departments\" href=\"/management/departments\">...</a> is not clickable at point (347, 29). Other element would receive the click: <div aria-hidden=\"true\" style=\"z-index: -1; position: fixed; right: 0px; bottom: 0px; top: 0px; left: 0px; background-color: rgba(0, 0, 0, 0.5); -webkit-tap-highlight-color: transparent;\"></div>\n  (Session info: chrome=86.0.4240.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:60961}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 1ebf3a1260f3df586e80898fd41b8dc7",
+      "time" : {
+        "start" : 1603199779904,
+        "stop" : 1603199801333,
+        "duration" : 21429
+      }
+    }, {
+      "uid" : "52e8674ee7df5ef8",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:59731}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 1f75fb819b57fa8c2a506f2f3ee2f906\n*** Element info: {Using=xpath, value=/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button}",
+      "time" : {
+        "start" : 1603199482838,
+        "stop" : 1603199547035,
+        "duration" : 64197
+      }
+    }, {
+      "uid" : "1970e69c780d0ea2",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:59191}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: c605b8c1c75242b2047fc7cf2b935f9d\n*** Element info: {Using=xpath, value=/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button}",
+      "time" : {
+        "start" : 1603199360492,
+        "stop" : 1603199421369,
+        "duration" : 60877
+      }
+    }, {
+      "uid" : "cbb4b9966541f227",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[2]/div[3]/form/div[1]/div/div/div/div\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:58691}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 31fbde95fc14c94267d45c4958d1fb0d\n*** Element info: {Using=xpath, value=/html/body/div[2]/div[3]/form/div[1]/div/div/div/div}",
+      "time" : {
+        "start" : 1603199247666,
+        "stop" : 1603199313697,
+        "duration" : 66031
+      }
+    }, {
+      "uid" : "1988d847826da43b",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:58131}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 595d3288edd35c7f5a64dd0f63f39972\n*** Element info: {Using=xpath, value=/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button}",
+      "time" : {
+        "start" : 1603199115999,
+        "stop" : 1603199177487,
+        "duration" : 61488
+      }
+    }, {
+      "uid" : "1768f4c992b61591",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@href='/management/locations']\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:57620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 2ae75d5a6077b1aaadc85b03a7f00c02\n*** Element info: {Using=xpath, value=//a[@href='/management/locations']}",
+      "time" : {
+        "start" : 1603198995391,
+        "stop" : 1603199007227,
+        "duration" : 11836
+      }
+    }, {
+      "uid" : "8f34967d0c117fb2",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:57013}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 3764033fbdf6937f2fce7c9e14426e92\n*** Element info: {Using=xpath, value=/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]}",
+      "time" : {
+        "start" : 1603198858851,
+        "stop" : 1603198920868,
+        "duration" : 62017
+      }
+    }, {
+      "uid" : "8eff32f1255299d",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[3]/div[3]/div/span[2]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:54909}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 68659904a5ff57fe2f3ee9f6623850d2\n*** Element info: {Using=xpath, value=/html/body/div[3]/div[3]/div/span[2]}",
+      "time" : {
+        "start" : 1603198353666,
+        "stop" : 1603198412528,
+        "duration" : 58862
+      }
+    }, {
+      "uid" : "91b08ab9c8db1066",
+      "status" : "skipped",
+      "statusDetails" : "unknown error: net::ERR_CONNECTION_RESET\n  (Session info: chrome=86.0.4240.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:54815}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: da305c73bead78ba8f7c099e868543c0",
+      "time" : {
+        "start" : 1603198331685,
+        "stop" : 1603198331694,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "99f848b45a11f46a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[3]/div[3]/div/span[2]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:54453}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 86c989bb96618cdac8d8c916ed4c0678\n*** Element info: {Using=xpath, value=/html/body/div[3]/div[3]/div/span[2]}",
+      "time" : {
+        "start" : 1603198250469,
+        "stop" : 1603198306610,
+        "duration" : 56141
+      }
+    }, {
+      "uid" : "3c4303cea7ec054a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Add New')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:54270}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 60377c2ff0cd62f473b240b043f9d32c\n*** Element info: {Using=xpath, value=//button[contains(text(),'Add New')]}",
+      "time" : {
+        "start" : 1603198215326,
+        "stop" : 1603198229522,
+        "duration" : 14196
+      }
+    }, {
+      "uid" : "3afb56b05b05cd93",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit\" tabindex=\"0\" type=\"button\" title=\"Duplicate Template\">...</button> is not clickable at point (1742, 383). Other element would receive the click: <div aria-hidden=\"true\" style=\"z-index: -1; position: fixed; right: 0px; bottom: 0px; top: 0px; left: 0px; background-color: rgba(0, 0, 0, 0.5); -webkit-tap-highlight-color: transparent;\"></div>\n  (Session info: chrome=86.0.4240.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:53813}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: f56b77942bf3cb3dbc0080a12324bb3e",
+      "time" : {
+        "start" : 1603198112034,
+        "stop" : 1603198164967,
+        "duration" : 52933
+      }
+    }, {
+      "uid" : "b44b10a4ea36709e",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:53393}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 561c72bbdaf5111c152f118a728f861d\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1603198012317,
+        "stop" : 1603198055361,
+        "duration" : 43044
+      }
+    }, {
+      "uid" : "5fe91150327ad19b",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Edit Department')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:53098}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: c8f4afe828b3bcae436bb787893c365e\n*** Element info: {Using=xpath, value=//button[contains(text(),'Edit Department')]}",
+      "time" : {
+        "start" : 1603197946892,
+        "stop" : 1603197986993,
+        "duration" : 40101
+      }
+    }, {
+      "uid" : "ffaf7c59b471b9b4",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Edit Department')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:52761}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: f5161dab195a85ce99f6c24b1657d2da\n*** Element info: {Using=xpath, value=//button[contains(text(),'Edit Department')]}",
+      "time" : {
+        "start" : 1603197872666,
+        "stop" : 1603197913414,
+        "duration" : 40748
+      }
+    }, {
+      "uid" : "1a51f2114bf44bfb",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Edit Department')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:49296}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: c854bf6a73719b5dce63175c9c561f68\n*** Element info: {Using=xpath, value=//button[contains(text(),'Edit Department')]}",
+      "time" : {
+        "start" : 1603197047296,
+        "stop" : 1603197086969,
+        "duration" : 39673
+      }
+    }, {
+      "uid" : "398379822a7d0708",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:64173}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8651e6dca5dba56a9d33153e603bfdf6\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1603196692814,
+        "stop" : 1603196737104,
+        "duration" : 44290
+      }
+    }, {
+      "uid" : "b0e814674ba0153",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:63873}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: dd9246fff7b12c6f9df67c20751b9ce6\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1603196630459,
+        "stop" : 1603196674160,
+        "duration" : 43701
+      }
+    }, {
+      "uid" : "481c3fdb8e1239d9",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:59795}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 10529e1a840b858c0588cb516158f129\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1603195421663,
+        "stop" : 1603195464643,
+        "duration" : 42980
+      }
+    }, {
+      "uid" : "47ca5ee5b943ca68",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:59475}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a8ac2fd1e264b7bbea6dec4f382b33c5\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1603195351024,
+        "stop" : 1603195394405,
+        "duration" : 43381
+      }
+    }, {
+      "uid" : "f4a444d6e848f94f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:59061}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 7fc0d7e481b660da66eab80894798944\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1603195256711,
+        "stop" : 1603195299959,
+        "duration" : 43248
+      }
+    }, {
+      "uid" : "5aef723926650ed8",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:57523}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 66950d822438ae01c424e7ba9acb31b8\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1603194884721,
+        "stop" : 1603194925656,
+        "duration" : 40935
+      }
+    }, {
+      "uid" : "5d1f395d5923f2b4",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:57204}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: b448b24889e7781d297d9d324b164a00\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1603194813933,
+        "stop" : 1603194856030,
+        "duration" : 42097
+      }
+    }, {
+      "uid" : "70399212b0138296",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Edit Sub Sub Department')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:56817}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: e7921d08368460ef268001401ade9b85\n*** Element info: {Using=xpath, value=//button[contains(text(),'Edit Sub Sub Department')]}",
+      "time" : {
+        "start" : 1603194726212,
+        "stop" : 1603194766091,
+        "duration" : 39879
+      }
+    }, {
+      "uid" : "158cbe4dc8d72064",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit\" tabindex=\"0\" type=\"button\" title=\"Edit Sub Department\">...</button> is not clickable at point (1739, 138). Other element would receive the click: <div role=\"alert\" class=\"Toastify__toast-body\">...</div>\n  (Session info: chrome=86.0.4240.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:56530}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 657fcc81d792768884f17c0ccf7ded0f",
+      "time" : {
+        "start" : 1603194665043,
+        "stop" : 1603194692603,
+        "duration" : 27560
+      }
+    }, {
+      "uid" : "e457ea888ed2fc1",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Edit Sub Sub Department')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:55318}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 360faad1b263b71b3bbe65d3e39de24e\n*** Element info: {Using=xpath, value=//button[contains(text(),'Edit Sub Sub Department')]}",
+      "time" : {
+        "start" : 1603194368907,
+        "stop" : 1603194409022,
+        "duration" : 40115
+      }
+    }, {
+      "uid" : "c832ee3b92876c0f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Edit Department')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:54902}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 81c4d47eb3c13cdaaf0b3692a713a902\n*** Element info: {Using=xpath, value=//button[contains(text(),'Edit Department')]}",
+      "time" : {
+        "start" : 1603194272663,
+        "stop" : 1603194312435,
+        "duration" : 39772
+      }
+    }, {
+      "uid" : "6773841a413e5438",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:54541}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 0248a7c55fbea043592f1add060826d4\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1603194190788,
+        "stop" : 1603194232439,
+        "duration" : 41651
+      }
+    }, {
+      "uid" : "11572194d448bcde",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:54175}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 7181b7e888d8f1487092c601c9a91022",
+      "time" : {
+        "start" : 1603194112405,
+        "stop" : 1603194117119,
+        "duration" : 4714
+      }
+    }, {
+      "uid" : "50485fcf4871bf38",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:51665}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 4db9c5f586528be5dce74290443a2c05\n*** Element info: {Using=xpath, value=/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]}",
+      "time" : {
+        "start" : 1603193546537,
+        "stop" : 1603193585454,
+        "duration" : 38917
+      }
+    }, {
+      "uid" : "72a43d3699ecf9ea",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:64360}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 06dab9e90f2dc9c751c1597e636f1e87\n*** Element info: {Using=xpath, value=/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]}",
+      "time" : {
+        "start" : 1603192684106,
+        "stop" : 1603192721610,
+        "duration" : 37504
+      }
+    }, {
+      "uid" : "3a981482b7dba533",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Add New')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:60147}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 3c469693ffba37d97c15aceb69052cb8\n*** Element info: {Using=xpath, value=//button[contains(text(),'Add New')]}",
+      "time" : {
+        "start" : 1603185055879,
+        "stop" : 1603185071240,
+        "duration" : 15361
+      }
+    }, {
+      "uid" : "a62847627ee69b70",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:59441}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 82a6c7bfc8d1054dc5d99ecea7d0b7ae\n*** Element info: {Using=xpath, value=/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]}",
+      "time" : {
+        "start" : 1603184915483,
+        "stop" : 1603184952606,
+        "duration" : 37123
+      }
+    }, {
+      "uid" : "37112ecd7b72726a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"body > div:nth-child(8) > div.popup_.undefined > div.form_part > form > div.buttons > button.primary\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:58832}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 680210516730b670d411fcf6bde5ea25\n*** Element info: {Using=css selector, value=body > div:nth-child(8) > div.popup_.undefined > div.form_part > form > div.buttons > button.primary}",
+      "time" : {
+        "start" : 1603184794642,
+        "stop" : 1603184831588,
+        "duration" : 36946
+      }
+    }, {
+      "uid" : "c29e3bdde6dbf756",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Edit Department')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:57792}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 43fe878d66cdb25e9d1afc3fe9a7217b\n*** Element info: {Using=xpath, value=//button[contains(text(),'Edit Department')]}",
+      "time" : {
+        "start" : 1603184563370,
+        "stop" : 1603184605806,
+        "duration" : 42436
+      }
+    }, {
+      "uid" : "d4d0147ba3933bc9",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Edit Department')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:57188}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 869d8f56620f5d387ce4f2946424c952\n*** Element info: {Using=xpath, value=//button[contains(text(),'Edit Department')]}",
+      "time" : {
+        "start" : 1603184443285,
+        "stop" : 1603184484937,
+        "duration" : 41652
+      }
+    }, {
+      "uid" : "2569914a80f9282f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Edit Department')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:56196}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: d03f95c4ece0a1aee919e2f289b5538b\n*** Element info: {Using=xpath, value=//button[contains(text(),'Edit Department')]}",
+      "time" : {
+        "start" : 1603184228208,
+        "stop" : 1603184270095,
+        "duration" : 41887
+      }
+    }, {
+      "uid" : "8ffed3d3f70343d7",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:55194}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: ddbca6c04523dd8227df9293ea7e4420\n*** Element info: {Using=xpath, value=/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]}",
+      "time" : {
+        "start" : 1603184011299,
+        "stop" : 1603184048250,
+        "duration" : 36951
+      }
+    }, {
+      "uid" : "edcf8b6f3b626356",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:54500}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: c0d43d7f391c1fb17fde74526ae78c7a\n*** Element info: {Using=xpath, value=/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]}",
+      "time" : {
+        "start" : 1603183876865,
+        "stop" : 1603183915506,
+        "duration" : 38641
+      }
+    }, {
+      "uid" : "de0cd75523c4d252",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:53311}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: b5d9a41b69614ce997d806e9c1baaa6a\n*** Element info: {Using=xpath, value=/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]}",
+      "time" : {
+        "start" : 1603183627728,
+        "stop" : 1603183663915,
+        "duration" : 36187
+      }
+    }, {
+      "uid" : "89ab29e8e463c3d5",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:52613}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 59953c7299e3e6f94145fc1bd4936307",
+      "time" : {
+        "start" : 1603183483879,
+        "stop" : 1603183512270,
+        "duration" : 28391
+      }
+    }, {
+      "uid" : "fa3a4c4beb75845d",
+      "status" : "broken",
+      "statusDetails" : "stale element reference: element is not attached to the page document\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:51981}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 952f2df91343878ded9f112d6ef31049",
+      "time" : {
+        "start" : 1603183356796,
+        "stop" : 1603183387070,
+        "duration" : 30274
+      }
+    }, {
+      "uid" : "9f279c1db6a708c9",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Add Department')]\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:51655}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 1ba42c3e6c049dd45ba7f7d8645d6743\n*** Element info: {Using=xpath, value=//button[contains(text(),'Add Department')]}",
+      "time" : {
+        "start" : 1603183248823,
+        "stop" : 1603183281797,
+        "duration" : 32974
+      }
+    }, {
+      "uid" : "ebd0fb1ef4ddfc6c",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[@title='Open']\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:57054}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8f9a998f1db53ae9319de6619f2e4ab5\n*** Element info: {Using=xpath, value=//button[@title='Open']}",
+      "time" : {
+        "start" : 1603118640670,
+        "stop" : 1603118659527,
+        "duration" : 18857
+      }
+    }, {
+      "uid" : "35ff3835203c543a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[@title='Open']\"}\n  (Session info: chrome=86.0.4240.80)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:56830}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 09ea9148261656d3a35c6c0f7c90a80e\n*** Element info: {Using=xpath, value=//button[@title='Open']}",
+      "time" : {
+        "start" : 1603118299887,
+        "stop" : 1603118319122,
+        "duration" : 19235
+      }
+    }, {
+      "uid" : "5ede8d85eeb77cae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602165992948,
+        "stop" : 1602166036677,
+        "duration" : 43729
+      }
+    }, {
+      "uid" : "ad00cfd0851866b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602165708288,
+        "stop" : 1602165750244,
+        "duration" : 41956
+      }
+    }, {
+      "uid" : "f1f869a9442c7d42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1602165612798,
+        "stop" : 1602165654827,
+        "duration" : 42029
+      }
+    }, {
+      "uid" : "3f9992f66d9116d7",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit\" tabindex=\"0\" type=\"button\" title=\"Assign User\">...</button> is not clickable at point (1713, 138). Other element would receive the click: <div aria-hidden=\"true\" style=\"z-index: -1; position: fixed; right: 0px; bottom: 0px; top: 0px; left: 0px; background-color: rgba(0, 0, 0, 0.5); -webkit-tap-highlight-color: transparent;\"></div>\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:53243}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 684040c8a84d5bae5a4c3a5115a81a93",
+      "time" : {
+        "start" : 1602165547830,
+        "stop" : 1602165572395,
+        "duration" : 24565
+      }
+    }, {
+      "uid" : "824b93e88298e28c",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit\" tabindex=\"0\" type=\"button\" title=\"Assign User\">...</button> is not clickable at point (1713, 138). Other element would receive the click: <div aria-hidden=\"true\" style=\"z-index: -1; position: fixed; right: 0px; bottom: 0px; top: 0px; left: 0px; background-color: rgba(0, 0, 0, 0.5); -webkit-tap-highlight-color: transparent;\"></div>\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:52674}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 00b92c7bc8d5c72ec4581092798a8c80",
+      "time" : {
+        "start" : 1602165414742,
+        "stop" : 1602165439471,
+        "duration" : 24729
+      }
+    }, {
+      "uid" : "a877df49a379e849",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:52108}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9ff97a5781c4bc33f372f7197af5024b\n*** Element info: {Using=xpath, value=/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]}",
+      "time" : {
+        "start" : 1602165290070,
+        "stop" : 1602165336027,
+        "duration" : 45957
+      }
+    }, {
+      "uid" : "89df04145726c604",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit\" tabindex=\"0\" type=\"button\" title=\"Edit Department\">...</button> is not clickable at point (1747, 320). Other element would receive the click: <button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit\" tabindex=\"0\" type=\"button\" title=\"Edit Department\">...</button>\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:51835}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 2e11f21becbc9a6e5e5418a0d10ee697",
+      "time" : {
+        "start" : 1602165230230,
+        "stop" : 1602165257194,
+        "duration" : 26964
+      }
+    }, {
+      "uid" : "54b0b108b0744ed1",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:51486}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 8c95d20acc3d6dcf5aa83bb38fcf7e5c\n*** Element info: {Using=xpath, value=/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]}",
+      "time" : {
+        "start" : 1602165156464,
+        "stop" : 1602165191760,
+        "duration" : 35296
+      }
+    }, {
+      "uid" : "52986c606ec498df",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:51094}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 533db400cd025b4b3d5183af627453a1\n*** Element info: {Using=xpath, value=/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]}",
+      "time" : {
+        "start" : 1602165063056,
+        "stop" : 1602165096225,
+        "duration" : 33169
+      }
+    }, {
+      "uid" : "8faf9d30f9540a37",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:50541}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a7db1ca943fc2bb01e2916bac0890885\n*** Element info: {Using=xpath, value=/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]}",
+      "time" : {
+        "start" : 1602164938522,
+        "stop" : 1602164971316,
+        "duration" : 32794
+      }
+    }, {
+      "uid" : "42f80974acdad80f",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:49511}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: cba28052a4605c0ef5bce3b3ae4241cc\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1602164692094,
+        "stop" : 1602164732948,
+        "duration" : 40854
+      }
+    }, {
+      "uid" : "e9212c159f970ff0",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:65038}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 34543908fb41a661812e4bc03eba5602\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1602164489198,
+        "stop" : 1602164530940,
+        "duration" : 41742
+      }
+    }, {
+      "uid" : "9534afe07a44803c",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:62740}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 68100ff2ff92d5c3862967bf45346f69\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1602163952089,
+        "stop" : 1602163993891,
+        "duration" : 41802
+      }
+    }, {
+      "uid" : "af76b286ef426b0e",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@href='/management/locations']\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:55196}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 7674d2e2805a23dbbaaf293d3f247c30\n*** Element info: {Using=xpath, value=//a[@href='/management/locations']}",
+      "time" : {
+        "start" : 1602161875826,
+        "stop" : 1602161887500,
+        "duration" : 11674
+      }
+    }, {
+      "uid" : "b6842b9fb44ac79b",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@href='/management/locations']\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:51698}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a74be4cb3b618dbba72ae811ff4cc0e1\n*** Element info: {Using=xpath, value=//a[@href='/management/locations']}",
+      "time" : {
+        "start" : 1602161012640,
+        "stop" : 1602161024349,
+        "duration" : 11709
+      }
+    }, {
+      "uid" : "104f8d812e70dca9",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"body > div:nth-child(9) > div.popup_.undefined > div.form_part > form > div.buttons > button.primary\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:51375}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a99a1fe9ee4cd267b84f4829913b262c\n*** Element info: {Using=css selector, value=body > div:nth-child(9) > div.popup_.undefined > div.form_part > form > div.buttons > button.primary}",
+      "time" : {
+        "start" : 1602160940075,
+        "stop" : 1602160972831,
+        "duration" : 32756
+      }
+    }, {
+      "uid" : "2e6060cee450bfb6",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:51022}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 78f07bccbd479d6b912d47ac65f9e11b\n*** Element info: {Using=xpath, value=/html/body/div[4]/div[3]/div[2]/form/div[3]/button[2]}",
+      "time" : {
+        "start" : 1602160859345,
+        "stop" : 1602160893087,
+        "duration" : 33742
+      }
+    }, {
+      "uid" : "12f1dfa109f3df4e",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:50685}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: c20cfa0f6b55985cb185589ba48b4ed3\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1602160783123,
+        "stop" : 1602160822704,
+        "duration" : 39581
+      }
+    }, {
+      "uid" : "45839b89cfa49556",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:50231}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 6957535422a004695d79e500048176db\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1602160679203,
+        "stop" : 1602160719788,
+        "duration" : 40585
+      }
+    }, {
+      "uid" : "8bce60cef9db543",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//button[contains(text(),'Yes')]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:49789}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: d19b51b5d46e82ba34fae3f104e86903\n*** Element info: {Using=xpath, value=//button[contains(text(),'Yes')]}",
+      "time" : {
+        "start" : 1602160574731,
+        "stop" : 1602160616023,
+        "duration" : 41292
+      }
+    }, {
+      "uid" : "58a71dbaf616a791",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//a[@href='/management/locations']\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:61659}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 20012a939a11e744d2e16769163350bd\n*** Element info: {Using=xpath, value=//a[@href='/management/locations']}",
+      "time" : {
+        "start" : 1602159460827,
+        "stop" : 1602159472242,
+        "duration" : 11415
+      }
+    }, {
+      "uid" : "39c50fc11be635b8",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:53496}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9e2813815a4c0527491d7a1b1f9c64c4\n*** Element info: {Using=xpath, value=/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]}",
+      "time" : {
+        "start" : 1602077796891,
+        "stop" : 1602077863394,
+        "duration" : 66503
+      }
+    }, {
+      "uid" : "179dbeb63c47c0aa",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:52295}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 1bcbdfde569edd0f6ca036b46792762b\n*** Element info: {Using=xpath, value=/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]}",
+      "time" : {
+        "start" : 1602077515071,
+        "stop" : 1602077574715,
+        "duration" : 59644
+      }
+    }, {
+      "uid" : "6b65f12dbdc58f6a",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <button class=\"MuiButtonBase-root MuiIconButton-root MuiIconButton-colorInherit\" tabindex=\"0\" type=\"button\" title=\"Edit Department\">...</button> is not clickable at point (1743, 138). Other element would receive the click: <div aria-hidden=\"true\" style=\"z-index: -1; position: fixed; right: 0px; bottom: 0px; top: 0px; left: 0px; background-color: rgba(0, 0, 0, 0.5); -webkit-tap-highlight-color: transparent;\"></div>\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:65084}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 9e3a4a3ed2f3b32fee691ff0af2a731b",
+      "time" : {
+        "start" : 1602068652338,
+        "stop" : 1602068678184,
+        "duration" : 25846
+      }
+    }, {
+      "uid" : "32d51d60a74d9e9",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:56713}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 3ab6341764b28e784d653066ff20a8d1\n*** Element info: {Using=xpath, value=/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]}",
+      "time" : {
+        "start" : 1602063189197,
+        "stop" : 1602063247497,
+        "duration" : 58300
+      }
+    }, {
+      "uid" : "98fe417455edc867",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]/svg\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:56267}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: c8b5e1538cdd730517934d5e293b9db5\n*** Element info: {Using=xpath, value=/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]/svg}",
+      "time" : {
+        "start" : 1602063088615,
+        "stop" : 1602063147256,
+        "duration" : 58641
+      }
+    }, {
+      "uid" : "c092a9f0df45ac1b",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]/svg\"}\n  (Session info: chrome=85.0.4183.121)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:55501}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 3a371cad9281d4708742265197366c29\n*** Element info: {Using=xpath, value=/html/body/div[2]/div[3]/form/div[1]/div/div/div/div/button/span[1]/svg}",
+      "time" : {
+        "start" : 1602062912945,
+        "stop" : 1602062972293,
+        "duration" : 59348
+      }
+    }, {
+      "uid" : "c1ba6ac39a7685b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601997367590,
+        "stop" : 1601997433970,
+        "duration" : 66380
+      }
+    }, {
+      "uid" : "cd5724bfb4e3c253",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <button class=\"MuiButtonBase-root MuiIconButton-root MuiAutocomplete-popupIndicator\" tabindex=\"-1\" type=\"button\" aria-label=\"Open\" title=\"Open\">...</button> is not clickable at point (1527, 28). Other element would receive the click: <div id=\"919dhibld8\" class=\"Toastify__toast Toastify__toast--success\" style=\"\">...</div>\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:57820}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: a5796a063861d1c4e10eba4b4659c4c9",
+      "time" : {
+        "start" : 1601995089507,
+        "stop" : 1601995145533,
+        "duration" : 56026
+      }
+    }, {
+      "uid" : "f9be7b4032b55d47",
+      "status" : "broken",
+      "statusDetails" : "element click intercepted: Element <button class=\"MuiButtonBase-root MuiIconButton-root MuiAutocomplete-popupIndicator\" tabindex=\"-1\" type=\"button\" aria-label=\"Open\" title=\"Open\">...</button> is not clickable at point (1527, 28). Other element would receive the click: <div id=\"xny0aa1lke\" class=\"Toastify__toast Toastify__toast--success\" style=\"\">...</div>\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:56400}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 902d7fce8f280cb7bcb112f8621670eb",
+      "time" : {
+        "start" : 1601994797399,
+        "stop" : 1601994854285,
+        "duration" : 56886
+      }
+    }, {
+      "uid" : "10a9f43333a9cd87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601994033796,
+        "stop" : 1601994100975,
+        "duration" : 67179
+      }
+    }, {
+      "uid" : "2850f5bb39b8e810",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601992347927,
+        "stop" : 1601992412554,
+        "duration" : 64627
+      }
+    }, {
+      "uid" : "68800c5f72d3825d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601991966650,
+        "stop" : 1601992032915,
+        "duration" : 66265
+      }
+    }, {
+      "uid" : "867ab003e46b8717",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:59823}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: 6c27c9c14eb3c7ba542f4208bcd26111\n*** Element info: {Using=css selector, value=input[placeholder='E-mail']}",
+      "time" : {
+        "start" : 1601991835505,
+        "stop" : 1601991835534,
+        "duration" : 29
+      }
+    }, {
+      "uid" : "f0a86b9cc02a592",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601990226126,
+        "stop" : 1601990291357,
+        "duration" : 65231
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f375f0e4940b4cd4.json",
+  "parameterValues" : [ ]
+}

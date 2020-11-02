@@ -1,0 +1,383 @@
+{
+  "uid" : "4ee1e7d404c9e006",
+  "name" : "This test case tests if user can navigate in Department successfully",
+  "fullName" : "com.tests.NavDepartmentsTests.testMethod",
+  "historyId" : "7331dedaf665874171a980a2ed1f175c",
+  "time" : {
+    "start" : 1603269608656,
+    "stop" : 1603269612943,
+    "duration" : 4287
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "openChrome",
+    "time" : {
+      "start" : 1603269601256,
+      "stop" : 1603269603650,
+      "duration" : 2394
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "cleanUp",
+    "time" : {
+      "start" : 1603269612944,
+      "stop" : 1603269613042,
+      "duration" : 98
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.tests.NavDepartmentsTests"
+  }, {
+    "name" : "testClass",
+    "value" : "com.tests.NavDepartmentsTests"
+  }, {
+    "name" : "testMethod",
+    "value" : "testMethod"
+  }, {
+    "name" : "parentSuite",
+    "value" : "System Suite"
+  }, {
+    "name" : "suite",
+    "value" : "System Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.tests.NavDepartmentsTests"
+  }, {
+    "name" : "host",
+    "value" : "Blerons-iMac.local"
+  }, {
+    "name" : "thread",
+    "value" : "3116@Blerons-iMac.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "da60272e2785d0a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603269480628,
+        "stop" : 1603269484932,
+        "duration" : 4304
+      }
+    }, {
+      "uid" : "9fe585ad1448633f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603269358056,
+        "stop" : 1603269362347,
+        "duration" : 4291
+      }
+    }, {
+      "uid" : "be801c7d30da7a66",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603268995983,
+        "stop" : 1603269000297,
+        "duration" : 4314
+      }
+    }, {
+      "uid" : "2d0355b722aa9885",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603268742711,
+        "stop" : 1603268747010,
+        "duration" : 4299
+      }
+    }, {
+      "uid" : "23c834b883a16ff1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603268342262,
+        "stop" : 1603268346537,
+        "duration" : 4275
+      }
+    }, {
+      "uid" : "4893a4e332089198",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603267382909,
+        "stop" : 1603267387175,
+        "duration" : 4266
+      }
+    }, {
+      "uid" : "e509acfd8bd6d8c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603267014138,
+        "stop" : 1603267018438,
+        "duration" : 4300
+      }
+    }, {
+      "uid" : "cbc51970d4c45982",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603266657568,
+        "stop" : 1603266661965,
+        "duration" : 4397
+      }
+    }, {
+      "uid" : "d690258be5294360",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603200958228,
+        "stop" : 1603200962687,
+        "duration" : 4459
+      }
+    }, {
+      "uid" : "98641bc0727de7c4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603200786451,
+        "stop" : 1603200790748,
+        "duration" : 4297
+      }
+    }, {
+      "uid" : "88d2dc500ad49c1d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603200578703,
+        "stop" : 1603200582985,
+        "duration" : 4282
+      }
+    }, {
+      "uid" : "225be9d790f47ce7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603194099909,
+        "stop" : 1603194104192,
+        "duration" : 4283
+      }
+    }, {
+      "uid" : "7d33f50903f44890",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603193534497,
+        "stop" : 1603193538749,
+        "duration" : 4252
+      }
+    }, {
+      "uid" : "2b60d58e72671b3f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603192671660,
+        "stop" : 1603192676028,
+        "duration" : 4368
+      }
+    }, {
+      "uid" : "4b0a5c3315485074",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603185043468,
+        "stop" : 1603185047768,
+        "duration" : 4300
+      }
+    }, {
+      "uid" : "1bbfd51adccca539",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603184901864,
+        "stop" : 1603184906138,
+        "duration" : 4274
+      }
+    }, {
+      "uid" : "4bf8ef123b04d1e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603184782533,
+        "stop" : 1603184786829,
+        "duration" : 4296
+      }
+    }, {
+      "uid" : "a5e3f9d5f6c1dd9b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603184551284,
+        "stop" : 1603184555552,
+        "duration" : 4268
+      }
+    }, {
+      "uid" : "1e05ef4d947b594",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603184431034,
+        "stop" : 1603184435320,
+        "duration" : 4286
+      }
+    }, {
+      "uid" : "95bce23a4d9ff9df",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603184215780,
+        "stop" : 1603184220158,
+        "duration" : 4378
+      }
+    }, {
+      "uid" : "127801db0db1c88e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603183998977,
+        "stop" : 1603184003244,
+        "duration" : 4267
+      }
+    }, {
+      "uid" : "ad9430f046abb49",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603183861562,
+        "stop" : 1603183865862,
+        "duration" : 4300
+      }
+    }, {
+      "uid" : "9036db54682a3219",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603183615555,
+        "stop" : 1603183619847,
+        "duration" : 4292
+      }
+    }, {
+      "uid" : "a7ca71901010b34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603183471678,
+        "stop" : 1603183475978,
+        "duration" : 4300
+      }
+    }, {
+      "uid" : "a68ad761fc7dcac4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603183344532,
+        "stop" : 1603183348836,
+        "duration" : 4304
+      }
+    }, {
+      "uid" : "2a54a6718caede71",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603183233017,
+        "stop" : 1603183237299,
+        "duration" : 4282
+      }
+    }, {
+      "uid" : "7b427ceaa3eb9d83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603118628680,
+        "stop" : 1603118632967,
+        "duration" : 4287
+      }
+    }, {
+      "uid" : "ba748507446a17b7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603118287040,
+        "stop" : 1603118291301,
+        "duration" : 4261
+      }
+    }, {
+      "uid" : "ed86b21182530c89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601997355584,
+        "stop" : 1601997359891,
+        "duration" : 4307
+      }
+    }, {
+      "uid" : "319a68dea2be55a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601995077528,
+        "stop" : 1601995081817,
+        "duration" : 4289
+      }
+    }, {
+      "uid" : "9d3bde0ba66b97c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601994784901,
+        "stop" : 1601994789210,
+        "duration" : 4309
+      }
+    }, {
+      "uid" : "730efb734c35f602",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601994019950,
+        "stop" : 1601994024295,
+        "duration" : 4345
+      }
+    }, {
+      "uid" : "65a3fe1d76c06338",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601992335634,
+        "stop" : 1601992340303,
+        "duration" : 4669
+      }
+    }, {
+      "uid" : "c0e2f03733c4bdfc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601991954387,
+        "stop" : 1601991958683,
+        "duration" : 4296
+      }
+    }, {
+      "uid" : "366f2ef7799119d6",
+      "status" : "broken",
+      "statusDetails" : "no such window: window was already closed\n  (Session info: chrome=85.0.4183.121)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 85.0.4183.121, chrome: {chromedriverVersion: 85.0.4183.87 (cd6713ebf92fa..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:59764}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: fd92b4711ca28656119a91bec423f1b9\n*** Element info: {Using=css selector, value=input[placeholder='Password']}",
+      "time" : {
+        "start" : 1601991826106,
+        "stop" : 1601991832846,
+        "duration" : 6740
+      }
+    }, {
+      "uid" : "c970bbbb17fe7068",
+      "status" : "passed",
+      "time" : {
+        "start" : 1601990214194,
+        "stop" : 1601990218535,
+        "duration" : 4341
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4ee1e7d404c9e006.json",
+  "parameterValues" : [ ]
+}

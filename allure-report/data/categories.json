@@ -1,0 +1,43 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:25746\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "children" : [ {
+        "name" : "openChrome",
+        "uid" : "b6f59fbdbe52179",
+        "parentUid" : "f23d3fb5c7a9185db2cac1244d883663",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603184834578,
+          "stop" : 1603184834579,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f23d3fb5c7a9185db2cac1244d883663"
+    }, {
+      "name" : "unknown error: net::ERR_CONNECTION_RESET\n  (Session info: chrome=86.0.4240.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:54815}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: da305c73bead78ba8f7c099e868543c0",
+      "children" : [ {
+        "name" : "openChrome",
+        "uid" : "f00d871759977c2c",
+        "parentUid" : "67b6313be23519f5964835b8fa6fad70",
+        "status" : "broken",
+        "time" : {
+          "start" : 1603198331663,
+          "stop" : 1603198331665,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "67b6313be23519f5964835b8fa6fad70"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name = "System Suite" verbose="1">
+    <test name = "System Tests" >
+        <classes>
+<!--            <class name="com.tests.LoginTests" />-->
+<!--            <class name="com.tests.SupervisorPageTests" />-->
+<!--            <class name="com.tests.NavDepartmentsTests"/>-->
+            <class name="com.tests.SideManagementTests"/>
+<!--            <class name="com.tests.SideChatPageTests"/>-->
+<!--            <class name="com.tests.NavFileTests"/>-->
+<!--            <class name="com.tests.NavUsersTests"/>-->
+<!--            <class name="com.tests.NavProfileTests"/>-->
+<!--            <class name="com.tests.NavSettingsTests"/>-->
+        </classes>
+    </test>
+</suite>
+        <!--            <class name="com.tests.NavCalendarTests"/>-->
+        <!--            <class name="com.tests.NavChatTests"/>-->

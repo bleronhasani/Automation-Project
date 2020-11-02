@@ -1,0 +1,213 @@
+{
+  "dcbe62e505c1bef973427edb1c4e27e2" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bb81aa3ad36a2c0c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603269597179,
+        "stop" : 1603269601166,
+        "duration" : 3987
+      }
+    } ]
+  },
+  "7e9f759effbce3984d8788950437488b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "38ca0966ed7b2a8c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603269786940,
+        "stop" : 1603269801898,
+        "duration" : 14958
+      }
+    } ]
+  },
+  "feed6f87287d811ad985286dd70efa2e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f375f0e4940b4cd4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603269620484,
+        "stop" : 1603269670474,
+        "duration" : 49990
+      }
+    } ]
+  },
+  "e2c61c0678f3bff3e171e2ed18085598" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b44fe22f07756ab1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603269678749,
+        "stop" : 1603269736234,
+        "duration" : 57485
+      }
+    } ]
+  },
+  "7331dedaf665874171a980a2ed1f175c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4ee1e7d404c9e006",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603269608656,
+        "stop" : 1603269612943,
+        "duration" : 4287
+      }
+    } ]
+  },
+  "431e87594c79db3a150763b8b3335739" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f00d871759977c2c",
+      "status" : "broken",
+      "statusDetails" : "unknown error: net::ERR_CONNECTION_RESET\n  (Session info: chrome=86.0.4240.80)\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 86.0.4240.80, chrome: {chromedriverVersion: 86.0.4240.22 (398b0743353ff..., userDataDir: /var/folders/k2/ql842xwj4gq...}, goog:chromeOptions: {debuggerAddress: localhost:54815}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:virtualAuthenticators: true}\nSession ID: da305c73bead78ba8f7c099e868543c0",
+      "time" : {
+        "start" : 1603198331663,
+        "stop" : 1603198331665,
+        "duration" : 2
+      }
+    } ]
+  },
+  "d1b9b9a2e10b7e850fbf7bd91213e413" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4b1edd3ddbb10a43",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603269759770,
+        "stop" : 1603269779299,
+        "duration" : 19529
+      }
+    } ]
+  },
+  "d3483e04b6ba3f9f24ce185cb285b0c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f2360f4e2accbf01",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603269809442,
+        "stop" : 1603269823714,
+        "duration" : 14272
+      }
+    } ]
+  },
+  "4fb7f7bc04801fb65a0f2752a159f4c0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "55e06d4245cb2930",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603269744792,
+        "stop" : 1603269752201,
+        "duration" : 7409
+      }
+    } ]
+  },
+  "37045d554c137fe73b97121c10cf54e5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6f59fbdbe52179",
+      "status" : "broken",
+      "statusDetails" : "java.net.ConnectException: Failed to connect to localhost/[0:0:0:0:0:0:0:1]:25746\nBuild info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'\nSystem info: host: 'Blerons-iMac.local', ip: '192.168.0.103', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.15.6', java.version: '14.0.2'\nDriver info: driver.version: RemoteWebDriver",
+      "time" : {
+        "start" : 1603184834578,
+        "stop" : 1603184834579,
+        "duration" : 1
+      }
+    } ]
+  },
+  "7fa2cf60ccb59e9a8d50813b0ec7a821" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a681bf992fda2ee2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1603269592963,
+        "stop" : 1603269594277,
+        "duration" : 1314
+      }
+    } ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "openChrome",
+    "uid" : "b6f59fbdbe52179",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1603184834578,
+      "stop" : 1603184834579,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "openChrome",
+    "uid" : "f00d871759977c2c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1603198331663,
+      "stop" : 1603198331665,
+      "duration" : 2
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "This test case tests if user can Login successfully",
+    "uid" : "a681bf992fda2ee2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603269592963,
+      "stop" : 1603269594277,
+      "duration" : 1314
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "This test is for Manager/Supervisor Dashboard",
+    "uid" : "bb81aa3ad36a2c0c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603269597179,
+      "stop" : 1603269601166,
+      "duration" : 3987
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "This test case tests if user can navigate in Department successfully",
+    "uid" : "4ee1e7d404c9e006",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603269608656,
+      "stop" : 1603269612943,
+      "duration" : 4287
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "This test is for Management Page",
+    "uid" : "f375f0e4940b4cd4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603269620484,
+      "stop" : 1603269670474,
+      "duration" : 49990
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "This test case tests if user can speak successfully in chat",
+    "uid" : "b44fe22f07756ab1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603269678749,
+      "stop" : 1603269736234,
+      "duration" : 57485
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "This test case tests if user can navigate in file successfully",
+    "uid" : "55e06d4245cb2930",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603269744792,
+      "stop" : 1603269752201,
+      "duration" : 7409
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "This test case tests if user can manage user page successfully",
+    "uid" : "4b1edd3ddbb10a43",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603269759770,
+      "stop" : 1603269779299,
+      "duration" : 19529
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "This test case tests if user manage profile page successfully",
+    "uid" : "38ca0966ed7b2a8c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603269786940,
+      "stop" : 1603269801898,
+      "duration" : 14958
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "This Test case tests if user can use settings successfully",
+    "uid" : "f2360f4e2accbf01",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1603269809442,
+      "stop" : 1603269823714,
+      "duration" : 14272
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}
